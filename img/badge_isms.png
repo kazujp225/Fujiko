@@ -1,0 +1,4277 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="ja">
+<head >
+
+	<!-- OGP画像追加 -->
+
+	<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+		<meta property="og:url" content="https://fujiko-san.com/">
+		<meta property="og:type" content="website">
+		<meta property="og:image" content="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img/og_image.png">
+		<meta property="og:title" content="オンラインアシスタントならフジ子さん | 経理・人事・総務などバックオフィス業務を代行">
+
+		<meta charset="UTF-8">
+		<meta name="description" content="経理・人事・総務などバックオフィス業務を代行するオンラインアシスタントサービスです。必要な時に、必要なだけ仕事を頼めるので、企業の業務効率化に貢献します。">
+		<meta name="viewport" content="width=device-width">
+		<meta name="facebook-domain-verification" content="xcetaxffvzzlued3ui7sdhazs461tz" />
+
+				<!-- Google Tag Manager -->
+		<script id="data" type="text/javascript">
+			(function(w, d, s, l, i) {
+				w[l] = w[l] || [];
+				w[l].push({
+					'gtm.start': new Date().getTime(),
+					event: 'gtm.js'
+				});
+				var f = d.getElementsByTagName(s)[0],
+					j = d.createElement(s),
+					dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore(j, f);
+			})(window, document, 'script', 'dataLayer', 'GTM-T4RS7J2');
+		</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140120550-1"></script>
+		<script id="data" type="text/javascript">
+			window.dataLayer = window.dataLayer || [];
+
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-140120550-1');
+		</script>
+				
+		<script src="//statics.a8.net/a8sales/a8sales.js"></script>
+				<link rel=”dns-prefetch” href=”//apis.google.com”>
+		<link rel=”dns-prefetch” href=”//platform.twitter.com”>
+		<link rel=”dns-prefetch” href=”//connect.facebook.net”>
+		<link rel=”dns-prefetch” href=”//www.facebook.com”>
+		<link rel=”dns-prefetch” href=”//www.google-analytics.com”>
+		<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+
+		<title>ページが見つかりませんでした &#8211; オンラインアシスタントならフジ子さん | 経理・人事・総務などバックオフィス業務を代行</title>
+<br />
+<b>Warning</b>:  Attempt to read property "post_parent" on null in <b>/home/fujikosan/fujiko-san.com/public_html/wp/wp-content/themes/oops_tcd048/functions.php</b> on line <b>193</b><br />
+
+		<!-- All in One SEO 4.9.3 - aioseo.com -->
+	<meta name="robots" content="noindex" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.9.3" />
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='stylesheet' id='aioseo/css/src/vue/standalone/blocks/table-of-contents/global.scss-css' href='https://fujiko-san.com/wp/wp-content/plugins/all-in-one-seo-pack/dist/Lite/assets/css/table-of-contents/global.e90f6d47.css?ver=4.9.3' type='text/css' media='all' />
+<style id='pdfemb-pdf-embedder-viewer-style-inline-css' type='text/css'>
+.wp-block-pdfemb-pdf-embedder-viewer{max-width:none}
+
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://fujiko-san.com/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7msm_styles-css' href='https://fujiko-san.com/wp/wp-content/plugins/contact-form-7-multi-step-module-premium/resources/cf7msm.css?ver=4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dnd-upload-cf7-css' href='https://fujiko-san.com/wp/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/css/dnd-upload-cf7.css?ver=1.3.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-lightbox-tosrus-css' href='https://fujiko-san.com/wp/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.min.css?ver=2.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oops-slick-css' href='https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/css/slick.min.css?ver=6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oops-slick-theme-css' href='https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/css/slick-theme.min.css?ver=6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oops-style-css' href='https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/css/style.css?ver=6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='notosans-css' href='https://fonts.googleapis.com/css2?family=Noto+Sans+JP%3Awght%40400%3B500%3B700&#038;display=swap&#038;ver=6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='case_logo_slider-css' href='https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/css/case_logo_slider.css?ver=6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='oops-responsive-css' href='https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/responsive.min.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css' href='https://fujiko-san.com/wp/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.6.7' type='text/css' media='all' />
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/plugins/responsive-lightbox/assets/dompurify/purify.min.js?ver=3.3.1" id="dompurify-js"></script>
+<script type="text/javascript" id="responsive-lightbox-sanitizer-js-before">
+/* <![CDATA[ */
+window.RLG = window.RLG || {}; window.RLG.sanitizeAllowedHosts = ["youtube.com","www.youtube.com","youtu.be","vimeo.com","player.vimeo.com"];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/plugins/responsive-lightbox/js/sanitizer.js?ver=2.6.1" id="responsive-lightbox-sanitizer-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/plugins/responsive-lightbox/assets/tosrus/jquery.tosrus.min.js?ver=2.5.0" id="responsive-lightbox-tosrus-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=4.0.1" id="responsive-lightbox-infinite-scroll-js"></script>
+<script type="text/javascript" id="responsive-lightbox-js-before">
+/* <![CDATA[ */
+var rlArgs = {"script":"tosrus","selector":"lightbox","customEvents":"","activeGalleries":true,"effect":"slide","infinite":true,"keys":false,"autoplay":false,"pauseOnHover":false,"timeout":4000,"pagination":true,"paginationType":"thumbnails","closeOnClick":true,"woocommerce_gallery":false,"ajaxurl":"https:\/\/fujiko-san.com\/wp\/wp-admin\/admin-ajax.php","nonce":"d757877118","preview":false,"postId":0,"scriptExtension":false};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.6.1" id="responsive-lightbox-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/plugins/scrolling-anchors/js/jquery.easing.1.3.js?ver=6.7" id="jquery-easing-js"></script>
+<link rel="https://api.w.org/" href="https://fujiko-san.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fujiko-san.com/wp/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7" />
+<meta name="cdp-version" content="1.5.0" /><!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* ===========================
+   固定ページ28686 メンテナンスページ用
+   =========================== */
+.page-id-28686 {
+    font-size: 62.5%;
+    line-height: 1.5;
+    font-family: "dnp-shuei-gothic-kin-std,sans-serif", "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic","Meiryo",sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #fff;
+    min-height: 100vh;
+}
+
+/* PC用 */
+@media screen and (min-width:768px) {
+    .page-id-28686 .sp { display: none !important; }
+    .page-id-28686 .wrapper { max-width: 700px; margin: 0 auto !important; text-align: center !important; vertical-align: middle !important; }
+    .page-id-28686 h1 { font-size: 50px !important; font-weight: 500; margin: 2rem auto 0 !important; }
+    .page-id-28686 .line { background-color: #54b6d4ff; height: 2px; width: 100%; margin-bottom: 2rem; }
+    .page-id-28686 .woman { width: 45rem !important;margin-top: 6rem; margin-bottom: 2rem !important;}
+
+    .page-id-28686 h2 { font-size: 30px !important; font-weight: 600; color: #ffffff !important; background-color: #54b6d4ff !important; line-height: 3.2rem !important; margin:0 0 1.2rem !important;}
+
+    .page-id-28686 .ca { display: flex !important; align-items: center !important; justify-content: flex-start !important; gap: 5px !important; margin-bottom: 1rem !important; margin-left: 1rem !important;font-weight: 600 !important; }
+	.page-id-28686 .ca-mail {font-size: 30px;  color: #54b6d4ff !important; line-height: 1.4;}
+	.page-id-28686 .ca-tell {font-size: 30px;  color: #54b6d4ff !important; line-height: 1.4;}
+	.page-id-28686 .ca-mail span,.page-id-28686 .ca-tell span {font-weight: 500 !important;}
+    .page-id-28686 .ca small { font-size: 20px; font-weight:600 !important; color: #54b6d4ff !important;  }
+    .page-id-28686 .block { border: 2px solid #54b6d4ff !important; background-color: #ffffff !important; width: 700px; max-width:100% ; margin: 0 auto 1.5rem 0.5rem !important; box-sizing: border-box; }
+    .page-id-28686 .logo {margin-bottom: 6rem; }
+	.page-id-28686 .ca img {
+    width: 30px;
+    height: auto;
+}
+}
+
+.page-id-28686 p.p { font-size: 30px !important; font-weight: 500;margin: 0 auto 2rem !important;line-height: 1.5; }
+.page-id-28686 p.p1 { font-size: 20px !important; font-weight: 500; margin:0 auto  2.2rem !important; }
+
+
+/* SP用 */
+/* ===========================
+   固定ページ28686 メンテナンスページ（スマホ）
+   =========================== */
+@media screen and (max-width: 767px) {
+
+    .page-id-28686 .sp { display: block !important; }
+
+    .page-id-28686 .wrapper {
+        width: 92%;
+        margin: 0 auto !important;
+        text-align: center;
+    }
+
+    .page-id-28686 .woman {
+        width: 100%;
+        max-width: 300px;
+        margin: 3rem auto 1.5rem !important;
+    }
+
+    .page-id-28686 p.p {
+        font-size: 22px !important;
+        font-weight: 500;
+        margin: 0 auto 1.5rem !important;
+        line-height: 1.5;
+    }
+
+    .page-id-28686 p.p1 {
+        font-size: 16px !important;
+        margin: 0 auto 2rem !important;
+        line-height: 1.4;
+    }
+
+    .page-id-28686 h2 {
+        font-size: 22px !important;
+        font-weight: 600;
+        color: #ffffff !important;
+        background-color: #54b6d4ff !important;
+        line-height: 2.8rem !important;
+        margin: 0 0 1rem !important;
+        padding: 0.5rem 0 !important;
+        text-align: center;
+    }
+
+    .page-id-28686 .block {
+        border: 2px solid #54b6d4ff !important;
+        background-color: #ffffff !important;
+        width: 100%;
+        margin: 0 auto 2rem !important;
+        padding: 1rem 0.5rem !important;
+        box-sizing: border-box;
+    }
+
+    .page-id-28686 .ca {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 6px;
+        margin-bottom: 1rem !important;
+        margin-left: 0.5rem !important;
+        font-weight: 600 !important;
+    }
+
+    /* メール */
+    .page-id-28686 .ca-mail {
+        font-size: 20px;
+        color: #54b6d4ff !important;
+        line-height: 1.3;
+    }
+    .page-id-28686 .ca-mail span {
+        font-weight: 600 !important;
+    }
+
+    /* 電話番号 */
+    .page-id-28686 .ca-tell {
+        font-size: 20px;
+        color: #54b6d4ff !important;
+        line-height: 1.3;
+        padding-left: 0.3rem;
+    }
+    .page-id-28686 .ca-tell span {
+        font-weight: 600 !important;
+    }
+
+    .page-id-28686 .ca small {
+        font-size: 16px;
+        font-weight: 600 !important;
+        color: #54b6d4ff !important;
+        line-height: 1.3;
+    }
+
+    .page-id-28686 .logo {
+        width: 120px;
+        margin: 2rem auto 4rem;
+        display: block;
+    }
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.hs-form-field{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
+}
+.hubspot_wrapper{
+    background: #fafafa;
+    border: 1px solid #ddd;
+    font-size: 14px;
+    margin: 20px 0 2.5em 0 !important;
+    padding: 0;
+    width: 100%;
+}
+.hubspot_wrapper form label{
+    width: 240px;
+    margin-right: 60px;
+    font-weight: bold;
+    padding: 0px 0px 10px 0px;
+}
+.hubspot_wrapper form input[type=text],
+.hubspot_wrapper form input[type=search],
+.hubspot_wrapper form input[type=email],
+.hubspot_wrapper form input[type=password],
+.hubspot_wrapper form input[type=tel],
+.hubspot_wrapper form input[type=number],
+.hubspot_wrapper form input[type=file],
+.hubspot_wrapper form select,
+.hubspot_wrapper form textarea {
+    width: 100%!important;
+    max-width: 500px;
+    border: 1px solid #ccc;
+    background-color:#fff!important;
+    box-shadow: none;
+    border-radius: 0;
+    box-sizing: border-box;
+    line-height: 1.2;
+    padding: 8px!important;
+	font: inherit;
+}
+.hubspot_wrapper form textarea {
+    height:150px;
+}
+.hubspot_wrapper form .hs-form-radio label {
+    margin: 0px 30px 0 0;
+}
+.hs-form-required {
+  font-size: 0;
+}
+.hs-form-required::after {
+  content: '必須';
+  font-size: .8rem;
+  margin-left: 10px;
+  color: red!important;
+  font-weight: bold;
+}
+.legal-consent-container{
+    padding: 0px 20px;
+}
+.hubspot_wrapper .input{
+    flex-grow: 1;
+}
+#hubspot_creative_container{
+    padding: 1.5em;
+    -webkit-font-smoothing:antialiased;
+}
+#hubspot_creative_container p{
+	line-height:2.4!important;
+}
+#hubspot_creative_container select{
+    width: 100%!important;
+    max-width: 500px!important;
+    border: 1px solid #ccc;
+    background-color:#fff!important;
+    color: #333333!important;
+}
+div#hubspot_creative_container li{
+    list-style-type: none;
+    text-align: center;
+}
+#hubspot_creative_container{
+	font-size:14px!important;	
+}
+.hs-form-radio {
+    float: left;
+}
+.hs-button {
+    box-sizing: border-box;
+    position: relative;
+    display: block;
+    width: 225px;
+    height: 48px;
+    margin: 30px auto 0;
+    background-color: #333;
+    cursor: pointer;
+    border: none !important;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 1.5;
+    outline: none;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+}
+.hs-field-desc {
+    order: 3;
+    padding-left: 300px;
+}
+ul.no-list.hs-error-msgs.inputs-list {
+    padding-left: 300px;
+    margin: 0px;
+}
+label.hs-error-msg.hs-main-font-element, label.hs-main-font-element {
+    color: #dc3232 !important;
+}
+.hs_privacy_policy.hs-privacy_policy.hs-fieldtype-booleancheckbox.field.hs-form-field{
+    justify-content: center;
+}
+.selectize-control.single .selectize-input, .selectize-control.single .selectize-input input {
+    max-width: 500px;
+}
+
+@media only screen and (max-width: 767px) {
+    #hubspot_creative_container {
+        font-size: 14px!important;
+    }
+
+    ul.no-list.hs-error-msgs.inputs-list {
+        padding-left: 0;
+    }
+
+    .hs-field-desc {
+        display: block !important;
+        float: none !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        margin-top: 5px;
+        font-size: 0.85em;
+    }
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.seminar_box>a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.seminar_box>a:hover {
+	opacity: 1;
+}
+
+.p-entry__body .seminar_btn div,
+.seminar_top .seminar_top_box a {
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.library_card_contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    /* position: relative; */
+}
+
+.library_card_contents>div {
+    /* padding-bottom: 50px; */
+}
+
+.p-breadncrumb {
+    /* margin-bottom: 1.5rem; */
+}
+
+.seminar_wra {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+	margin-top: 60px;
+}
+
+.seminar_box {
+    width: 31%;
+    margin: 0 10px 20px;
+    box-shadow: 0px 0px 6px #00000029;
+    position: relative;
+    min-width: 310px;
+}
+
+.seminar_box p {
+    display: none;
+}
+
+.seminar_h2 {
+    font-size: 20px !important;
+    text-align: center;
+    color: #022173;
+    min-height: 50px;
+    /* margin: 14px auto !important; */
+    margin-bottom: 10px !important;
+    /* padding: 0 1em; */
+    display: grid;
+    align-items: center;
+    font-weight: 700;
+    line-height: 1.8 !important;
+}
+
+.seminar_txt {
+    line-height: 1.8;
+    color: #333333;
+    margin-bottom: 15px;
+}
+
+@media screen and (max-width: 1138px) {
+    .seminar_wra {
+        justify-content: space-around;
+    }
+}
+
+.seminar_box .seminar_btn {
+    margin-bottom: 15px;
+}
+
+.seminar_img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover
+}
+
+.seminar_img, 
+.seminar_top_img{
+  overflow: hidden;
+}
+
+.seminar_img img,
+.seminar_top_img img {
+  transition-duration: 0.3s;
+}
+
+.seminar_box:hover .seminar_img img,
+.seminar_top:hover .seminar_top_img img {
+  transform: scale(1.05);
+  transition-duration: 0.3s;
+}
+
+@media screen and (max-width: 640px) {
+    .seminar_box {
+        width: 100%;
+        margin: 10px 0;
+        min-width: auto;
+    }
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.bigger-title {
+   font-size:x-large;
+   margin-top: 30px;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.p-news-list__item{
+  width:100%;
+}
+.news_single_date{
+    text-align: right;
+    line-height: 2.2;
+    margin-bottom: 3em;
+}
+.security{
+  text-align: center;
+}
+.news_security{
+  width: 250px;
+  height:auto;
+  margin:2em;
+}
+.p-news-list{
+  max-width: 680px;
+  margin: 0 auto 122px;
+}
+.h2_news{
+  font-size: 18px!important;
+    letter-spacing: 1.7px;
+    border-bottom: 1px dotted #9cabd3;
+    border-top: 1px dotted #9cabd3;
+    padding: .5em 0;
+}
+.p-news-list{
+	margin-top:40px;
+  margin-bottom:40px;
+}
+.p-load-post a{
+  transition:.3s;
+}
+.p-load-post a:hover{
+  opacity:.7;
+}
+
+@media screen and (max-width: 780px){
+.entry-news .p-entry__body {
+    width: 95%!important;
+    margin: 0 auto;
+}
+}
+
+@media screen and (max-width: 480px){
+  .entry-news{
+    width:90%!important;
+  }
+  
+}
+
+/* ページャー */
+.screen-reader-text {
+    display: none;
+}
+
+.nav-links {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.page-numbers {
+    display: inline-block;
+    font-size: 14px;
+    text-align: center;
+    line-height: 50px;
+    height: 50px;
+    border-radius: 5px;
+    width: 50px;
+    color: #022173;
+    text-decoration-color: #022173;
+    text-decoration: underline;
+}
+
+.prev,
+.next {
+    background: #022173;
+    color: #fff;
+    width: 45%;
+    max-width: 150px;
+    text-decoration: none;
+}
+
+.current,
+.dots {
+    border: none;
+    color: #333;
+    text-decoration: none;
+}
+
+.dots {
+    width: 10px;
+}
+
+@media screen and (max-width: 640px) {
+    .page-numbers {
+        display: none;
+    }
+
+    .prev,
+    .next {
+        display: inline-block;
+    }
+	
+		.nav-links {
+		margin-bottom: 50px;
+	}
+
+	.p-news-list {
+		margin-bottom: 20px;
+	}
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.btnForForm{
+  font-size: 1.1em;
+  font-weight: bold;
+  padding: 10px 30px;
+  background-color: #ff99cc;
+  color:white;
+  -moz-border-radius: 5px;
+ -webkit-border-radius: 5px;
+  border-radius: 5px;
+
+}
+.btnForForm:hover{
+  background-color: #F66780;
+  color: #fff;
+} </style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+@charset "utf-8";
+/* CSS Document */
+
+.form405aa_wra .wpcf7-text{
+width: 380px!important;
+}
+
+.form405a_rt{
+font-size: 90%;
+color: #7e7e7e;
+  margin-top: 1em;
+}
+
+.your-check .wpcf7-list-item{
+  display: inline-block!important;
+  margin: 0!important;
+  padding: 0!important;
+}
+.your-check .wpcf7-list-item.first{
+  margin-right: 3em!important;
+}
+.form_check01{
+margin-bottom: 3em;
+}
+.form_k01,
+.check_date{
+font-size: 90%;
+color: #364e96!important;
+}
+
+.form405a_table.l_pass{
+  margin-top: 20px;
+}
+
+.form405a_txt2{
+  line-height: 1.7!important;
+  margin-bottom: 1.5em!important;
+}
+
+.form405a_gmail{
+font-size: 90%;
+  color: #364e96;
+}
+
+.form405a_att{
+	display: block;
+	width: 90%;
+	height: auto;
+  margin: 0px auto 100px;
+	padding: 15px;
+	border: 1px solid #dbdbdb;
+}
+
+.form405a_att2{
+	display: block;
+	width: 90%;
+	height: auto;
+	padding: 12px;
+	border: 1px solid #364e96;
+  margin: 10px 0 10px;
+  color: #364e96;
+  font-size: 90%;
+  line-height: 1.5;
+}
+
+.form405a_att2.v_date{
+	border: none;
+  color: #7e7e7e;
+   margin: 0 auto 10px;
+}
+
+.form405a_h{
+	color: #364e96;/*文字色*/
+	padding: 0.2em 0;/*上下の余白*/
+	border-bottom: solid 1px #c7d0e7;/*下線*/	
+}
+
+.form405a_check{
+	display: block;
+	width: 95%;
+	background-color: #fff792;
+	padding: 15px;
+	text-align: center;
+	margin: 20px auto;
+}
+
+.form405a_red{
+	color: #d82424;
+	font-weight: bold;
+}
+
+.form405a_last{
+	font-size: 12px;
+	color: #a6a6a6;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.form405a_att1{
+	color: #df4f0f;
+	display: block;
+	width: 90%;
+	height: auto;
+	margin: 40px auto 15px;
+	font-weight: bold;
+	padding: 15px;
+	border: 1px solid #fad0be;
+ 	line-height: 2.2; 
+}
+
+.form405a_must{
+	color: #d82424;
+	padding-left: 6px;
+	font-size: 80%;
+}
+
+.form405a_name,
+.form405a_471,
+.form405a_date{
+	width: 220px;
+}
+
+.form405a_name{
+  margin-bottom: 0!important;
+}
+
+.form405a_name.g_mail{
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+.form405a_table{
+	display: flex;
+ 	align-items: center;
+ 	flex-wrap: wrap; 
+  margin-bottom: 1.2em;
+}
+
+.form405a_table1{
+	display: flex;
+ 	flex-wrap: no-wrap; 
+}
+.form405a_asi{
+  margin-right:1em;
+  padding-top:.8em;
+}
+
+.form405a_margin{
+	display: block;
+	margin-bottom: 20px;
+}
+
+.form405a_471,
+.form405a_date{
+	padding: 15px 0;
+}
+
+.form405a_label{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+
+div.wpcf7-mail-sent-ok {
+	display: none !important;
+}
+
+.wpcf7-not-valid-tip{
+	padding: 6px 0;
+}
+
+.br_sp{
+display: none;
+}
+
+.form405a_kickoff {
+  margin-top: 10px;
+}
+
+.kick_title {
+  padding-left: 70px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+.acceptance-12 {
+  display: inline-block;
+  width: 90%;
+  padding: 0 0 0 10px;
+  word-wrap: break-word;
+}
+
+.form405a_soufusaki{
+  display: block;
+  box-sizing: border-box;
+  width: 90%;
+  height: auto;
+  margin: 10px 0;
+  padding: 20px 0px 20px 0px;
+}
+
+.soufusaki{
+  display: flex;
+  width: 80%;
+  height: 1.2em;
+}
+
+@media screen and (max-width: 800px) {
+.wpcf7 input[name="your-name"],
+.wpcf7 input[name="your-email"],
+.wpcf7 input[name="your-subject"],
+.wpcf7 input[name="your-company"],
+.wpcf7 input[name="your-depart"],
+.wpcf7 input[name="your-postal"],
+.wpcf7 input[name="your-add"],
+.wpcf7 input[name="tel-11"],
+.wpcf7 input[name="menu-471"],
+.wpcf7 input[name="date-102"],
+.wpcf7 input[name="email-425"],
+.wpcf7 input[name="menu-404"]
+.wpcf7 input[name="date-102"]{
+        width: 100%!important;
+        height: 35px !important;
+}
+ 
+.wpcf7 textarea[name="your-message"] {
+        width: 100%;
+        height: 350px !important;
+}
+
+  .form405a_table{
+	display: inline;
+}
+  .form405a_att2{
+  width: 100%;
+  }
+  .form405a_table1{
+ 	flex-wrap: wrap; 
+}
+  .form405a_name{
+  margin-top: 15px;
+  }
+  .form405a_h{
+  line-height: 1.5!important;
+  }
+  .form405a_att2{
+  padding: 0;
+  }
+  .form405a_att2in{
+  width: 95%;
+    display: block;
+    margin: 10px auto;
+  }
+  .form405a_input.form405a_plan{
+    max-width: 90%;
+  }
+  .form405a_check{
+    width: auto;
+  }
+  .form_k01{
+margin-top: .5em;
+    display: block;
+}
+  .form405a_wra .wpcf7-text{
+  width: 100%!important;
+  }
+  .form405a_asi{
+    padding-bottom:.8em;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .br_sp{
+display: block;
+}
+  .wpcf7 .wpcf7-list-item{
+  padding: 0!important;
+  margin-right: 0!important;
+  }
+  .your-check .wpcf7-list-item{
+  display: block!important;
+    margin-bottom: 1em;
+}
+.wpcf7 input{
+width: 100%!important;
+}
+  .wpcf7 input[type=radio]{
+  width: auto!important;
+  }
+.your-check .wpcf7-list-item.first{
+  margin-bottom: 1em!important;
+}
+  .form_k01{
+    line-height: 1.5;
+  }
+.check_date .wpcf7-list-item{
+  display: flex!important;
+  margin: 1em 0 0 0;
+  }
+  .check_date input[type=checkbox]{
+  width: 20%!important;
+  }
+  .wpcf7-form-control-wrap.checkbox-372{
+    width: 100%!important;
+  }
+  .kick_title{
+    display: flex!important;
+    margin: 2px 0 4px 0!important;
+    padding: 0 0 0 0!important;
+  }
+  .wpcf7-list-item-label{
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.footer_201911{
+display: flex;
+ justify-content:space-evenly;
+}
+.footer_menu{
+  text-align:center; 
+  margin-right:2.5em;
+}
+.footer_menu ul{
+font-size:.9em;
+  line-height:40px;
+}
+.footer_menu li{
+display: inline-block;
+line-height:2.2;
+  padding: 0 .6em;
+}
+.footer_menu li.li_line::before{
+content:'l';
+  padding-right:1em;
+}
+.footer_menu li a{
+color:#333;
+}
+.footer_menu li a:hover{
+color:#838383;
+}
+.l-footer{
+background-color:#fff!important;
+}
+.telework{
+  display:block;
+  width:120px;
+  height:auto;
+}
+.security_action{
+  display:block;
+  width:120px;
+  height:auto;
+}
+.pmark_en{
+  display:block;
+  width:120px;
+  height:auto;
+}
+.footer_logo .fujia{
+  width:180px;
+  height:auto;
+}
+@media screen and (max-width: 768px) {
+  .footer_201911 div:nth-child(2){
+  order:1;
+  }
+  .footer_201911{
+  flex-wrap:wrap;
+    justify-content:center;
+  }
+  .footer_logo{
+  width:100%;
+  height:auto;
+  text-align:center;
+  margin-bottom:2em;
+  }
+  .footer_menu{
+  width:100%;
+    padding-top:1.5em;
+  }
+  .footer_menu{
+    margin-right:0;
+  }
+  .footer_menu li{
+  display:block;
+    border-bottom:1px solid #eee;
+    line-height:2.7;
+  }
+  .footer_menu li.li_line::before{
+   content:'';
+  display:none;
+  }
+  .l-footer__inner{
+  padding-bottom:80px;
+  }
+  
+  
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+#menu-item-923{
+margin-right:6em;
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.price ol{
+  list-style-type: decimal;
+  padding-left: 1em;
+}
+.price ol li{
+  position: relative;
+  margin-bottom: .3em;
+}
+.price ol li::before{
+  content: '※';
+  position: absolute;
+  left: -2.5em;
+}
+
+/* 特定商取引法に基づく表記 */
+#tokutei{
+  padding-top: 20px;
+}
+
+@media screen and (max-width: 480px){
+  .price {
+  padding: 30px 0 0 20px!important;
+  }
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#wpcf7-f114-p115-o1,
+#wpcf7-f114-p897-o1,
+#wpcf7-f5024-p5042-o2 {
+    width: 720px;
+    margin: 0 auto!important;
+  padding:2em;
+}
+#wpcf7-f114-p115-o1.wpcf7 textarea,
+#wpcf7-f114-p897-o1.wpcf7 textarea,
+#wpcf7-f5024-p5042-o2.wpcf7 textarea {
+    width: 89%;
+    height: 150px!important;
+    resize: vertical;
+}
+#wpcf7-f114-p897-o1 span.required,
+#wpcf7-f5024-p5042-o2 span.required {
+    color: red;
+}
+.contact_0wra{
+display: flex;
+align-items: center;
+margin-bottom: 20px;
+padding-left: 24px;
+}
+
+.form_gray{
+  color: #aaa;
+}
+
+.contact_01{
+width: 200px;
+margin-right: 60px;
+font-weight: bold;	
+}
+
+.wpcf7 select, .wpcf7 input[type=checkbox], .wpcf7 input[type=radio]{
+max-width: 110%;
+}
+
+.attention{
+  display: block;
+  width: 90%;
+  height: auto;
+  padding: 12px;
+  /* border: 1px solid #6fa9ab; 230329 */
+  margin: 10px 0 10px;
+  color: #6fa9ab;
+  font-size: 90%;
+  line-height: 1.5; 
+}
+
+.attention_top{
+  display: block;
+  width: 70%;
+  height: auto;
+  font-weight: bold;
+  font-size: 110%;
+  color: #696969;
+  margin: 0px auto 10px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.attention_bottom{
+  display: block;
+  width: 80%;
+  height: auto;
+  padding: 15px;
+  margin: 10px auto;
+  color: #54B6D4;
+  font-size: 90%;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.contact_que{
+  display:block;
+  padding-left: 24px;
+  margin-bottom:20px;
+}
+
+.contact_ans{
+  display:block;
+  padding-top:10px;
+  padding-left:10px;
+  line-height:1.8;
+}
+
+.ans_input {
+  outline:none;
+  border:none!important;
+  background-color:#fafafa;
+  height:28px;
+}
+
+.fujiko_q{
+  display:inline-block;
+  width:150px;
+  margin-left:10px;
+}
+
+@media only screen and (max-width: 767px){
+  #wpcf7-f114-p897-o1,
+  #wpcf7-f5024-p5042-o2 {
+    width: 90%;
+  padding:1em;
+}
+  #wpcf7-f114-p897-o1.wpcf7 textarea,
+  #wpcf7-f5024-p5042-o2.wpcf7 textarea {
+    width: 93%;
+}
+  
+.contact_0wra{
+flex-direction: column;
+width: 100%;
+margin: 0 auto 20px;
+padding: 0;
+align-items: flex-start;
+  }
+  
+.contact_01{
+margin-bottom: 4px; 
+  }
+  
+  div.wpcf7 p{
+  padding: 0!important;
+  }
+}
+
+@media only screen and (max-width: 480px){
+  #wpcf7-f114-p897-o1.wpcf7 select,
+  #wpcf7-f5024-p5042-o2.wpcf7 select {
+   max-width: 90%;
+  }
+  #wpcf7-f114-p897-o1.wpcf7 textarea,
+  #wpcf7-f5024-p5042-o2.wpcf7 textarea {
+    width: 98%;
+  }
+  #wpcf7-f114-p897-o1.wpcf7 input[name="your-name"],
+  #wpcf7-f114-p897-o1.wpcf7 input[name="your-email"],
+  #wpcf7-f5024-p5042-o2.wpcf7 input[name="your-name"],
+  #wpcf7-f5024-p5042-o2.wpcf7 input[name="your-email"] {
+    width:320px!important;
+  }
+  }</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.form405_wra .wpcf7-text{
+width: 380px!important;
+}
+
+.form405_rt{
+font-size: 90%;
+color: #7e7e7e;
+  margin-top: 1em;
+}
+
+.your-check .wpcf7-list-item{
+  display: inline-block!important;
+  margin: 0!important;
+  padding: 0!important;
+}
+.your-check .wpcf7-list-item.first{
+  margin-right: 3em!important;
+}
+.form_k01,
+.check_date{
+font-size: 90%;
+color: #6fa9ab;
+}
+
+.form405_table.l_pass{
+  margin-top: 20px;
+}
+
+.form405_txt2{
+  line-height: 1.7!important;
+  margin-bottom: 1.5em!important;
+}
+
+.form405_gmail{
+font-size: 90%;
+  color: #6fa9ab;
+}
+
+.form405_att{
+	display: block;
+	width: 90%;
+	height: auto;
+  margin: 0px auto 100px;
+	padding: 15px;
+	border: 1px solid #dbdbdb;
+}
+
+.form405_att2{
+	display: block;
+	width: 90%;
+	height: auto;
+	padding: 12px;
+	border: 1px solid #6fa9ab;
+  margin: 10px 0 10px;
+  color: #6fa9ab;
+  font-size: 90%;
+  line-height: 1.5;
+}
+
+.form405_att2.v_date{
+	border: none;
+  color: #7e7e7e;
+   margin: 0 auto 10px;
+}
+
+.form405_h{
+	color: #364e96;/*文字色*/
+	padding: 0.2em 0;/*上下の余白*/
+	border-bottom: solid 1px #c7d0e7;/*下線*/	
+}
+
+.form405_check{
+	display: block;
+	width: 95%;
+	background-color: #fff792;
+	padding: 15px;
+	text-align: center;
+	margin: 40px auto;
+}
+
+.form405_red{
+	color: #d82424;
+	font-weight: bold;
+}
+
+.form405_last{
+	font-size: 12px;
+	color: #a6a6a6;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.form405_att1{
+	color: #df4f0f;
+	display: block;
+	width: 90%;
+	height: auto;
+	margin: 40px auto 15px;
+	font-weight: bold;
+	padding: 15px;
+	border: 1px solid #fad0be;
+ 	line-height: 2.2; 
+}
+
+
+.form405_must{
+	color: #d82424;
+	padding-left: 6px;
+}
+
+.form405_name,
+.form405_471,
+.form405_date{
+	width: 200px;
+}
+
+.form405_name{
+  margin-bottom: 0!important;
+}
+
+.form405_name.g_mail{
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+.form405_table{
+	display: flex;
+ 	align-items: center;
+ 	flex-wrap: wrap; 
+  margin-bottom: 1.2em;
+}
+
+.form405_table1{
+	display: flex;
+ 	align-items: center;
+ 	flex-wrap: no-wrap; 
+}
+
+
+.form405_margin{
+	display: block;
+	margin-bottom: 20px;
+}
+
+.form405_471,
+.form405_date{
+	padding: 15px 0;
+}
+
+.form405_label{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+
+div.wpcf7-mail-sent-ok {
+	display: none !important;
+}
+
+.wpcf7-not-valid-tip{
+	padding: 6px 0;
+}
+
+.br_sp{
+display: none;
+}
+
+.privacy_title{
+	text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 10px;
+}
+.form_privacy .scroll_wrap{
+	border: 1px solid #ccc;
+    padding: 10px 20px;
+    height: 300px;
+    overflow-y: scroll;
+}
+
+.form_privacy .scroll_wrap p{
+	line-height: 1.5;
+}
+.form_privacy .scroll_wrap p+p{
+	margin-top: 1em;
+}
+
+
+
+@media screen and (max-width: 800px) {
+.wpcf7 input[name="your-name"],
+.wpcf7 input[name="your-email"],
+.wpcf7 input[name="your-subject"],
+.wpcf7 input[name="your-company"],
+.wpcf7 input[name="your-depart"],
+.wpcf7 input[name="your-postal"],
+.wpcf7 input[name="your-add"],
+.wpcf7 input[name="tel-11"],
+.wpcf7 input[name="menu-471"],
+.wpcf7 input[name="date-102"],
+.wpcf7 input[name="email-425"],
+.wpcf7 input[name="menu-404"]
+.wpcf7 input[name="date-102"]{
+        width: 100%!important;
+        height: 35px !important;
+}
+ 
+.wpcf7 textarea[name="your-message"] {
+        width: 100%;
+        height: 350px !important;
+}
+
+  .form405_table{
+	display: inline;
+}
+  .form405_att2{
+  width: 100%;
+  }
+  .form405_table1{
+ 	flex-wrap: wrap; 
+}
+  .form405_name{
+  margin-top: 15px;
+  }
+  .form405_h{
+  line-height: 1.5!important;
+  }
+  .form405_att2{
+  padding: 0;
+  }
+  .form405_att2in{
+  width: 95%;
+    display: block;
+    margin: 10px auto;
+  }
+  .form405_input.form405_plan{
+    max-width: 90%;
+  }
+  .form405_check{
+  width: auto;
+  }
+  .form_k01{
+margin-top: .5em;
+    display: block;
+}
+  .form405_wra .wpcf7-text{
+  width: 100%!important;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .br_sp{
+display: block;
+}
+  .wpcf7 .wpcf7-list-item{
+  padding: 0!important;
+  margin-right: 0!important;
+  }
+  .your-check .wpcf7-list-item{
+  display: block!important;
+    margin-bottom: 1em;
+}
+.wpcf7 input{
+width: 100%!important;
+}
+  .wpcf7 input[type=radio]{
+  width: auto!important;
+  }
+.your-check .wpcf7-list-item.first{
+  margin-bottom: 1em!important;
+}
+  .form_k01{
+    line-height: 1.5;
+  }
+.check_date .wpcf7-list-item{
+  display: flex!important;
+  margin: 1em 0 0 0;
+  }
+  .check_date input[type=checkbox]{
+  width: 20%!important;
+  }
+  .wpcf7-form-control-wrap.checkbox-372{
+    width: 100%!important;
+  }
+}</style>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+jQuery(document).ready(function( $ ){
+					$(function() {
+						// More code using $ as alias to jQuery
+						jQuery("area[href*=\\#],a[href*=\\#]:not([href=\\#]):not([href^='\\#tab']):not([href^='\\#quicktab']):not([href^='\\#pane'])").click(function() {
+                            if (!window.matchMedia('(max-width:767px)').matches) return;
+							if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+								var target = $(this.hash);
+								target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+								if (target.length) {
+									$("#js-menu-button").toggleClass("is-active")
+                                    $("#js-global-nav").hide()
+									return false;
+								}
+							}
+						});
+					});
+});
+</script>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+jQuery(function(){
+	jQuery(".cb6accordion p").click(function(){
+	    jQuery(this).next("ul").slideToggle();
+	    jQuery(this).toggleClass("open");
+	});
+});</script>
+<!-- end Simple Custom CSS and JS -->
+<style>
+.p-footer-cta--2 .p-footer-cta__inner { background: rgba( 0, 0, 0, 1); }
+.p-footer-cta--2 .p-footer-cta__btn { background: #ff8000; }
+.p-footer-cta--2 .p-footer-cta__btn:hover { background: #444444; }
+.p-footer-cta--3 .p-footer-cta__inner { background: rgba( 0, 0, 0, 1); }
+.p-footer-cta--3 .p-footer-cta__btn { background: #ff8000; }
+.p-footer-cta--3 .p-footer-cta__btn:hover { background: #444444; }
+</style>
+<style>
+/* Primary color */
+.p-global-nav .sub-menu a, .p-news-ticker, .p-widget-dropdown, .p-widget-dropdown select, .p-headline, .p-latest-news__title, .l-footer, .p-menu-button.is-active { background: #21234c; }
+
+/* Secondary color */
+.p-global-nav .sub-menu li a:hover, .p-widget-search__submit:hover, .p-button, .p-review__button:hover, .p-pager__item a:hover, .c-comment__form-submit:hover { background: #ff5b85; }
+.l-header--large .p-global-nav > li > a:hover, .p-global-nav > .current-menu-item > a, .p-global-nav > li > a:hover, .p-global-nav .current-menu-item > a .p-widget-list a:hover, .p-article01__category a:hover { color: #ff5b85; }
+
+/* Tertiary color */
+.p-button:hover { background: #ffbf0f; }
+
+/* font type */
+body { font-family: Verdana, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif; }
+
+/* headline font type */
+.p-index-slider__item-catch, .p-index-content01__catch, .p-index-content02__item-catch, .p-showcase__catch, .p-index-content04__catch, .p-index-content06__item-catch, .p-index-content07__catch, .p-index-content09__catch, .p-footer-blog__catch, .p-article01__title, .p-page-header__title, .p-headline, .p-article02__title, .p-latest-news__title h2, .p-review__name, .p-review-header__title, #js-header-video .caption .title, #js-header-youtube .caption .title {
+font-family: "Segoe UI", Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+/* load */
+@-webkit-keyframes loading-square-loader {
+  0% { box-shadow: 16px -8px rgba(33, 35, 76, 0), 32px 0 rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  5% { box-shadow: 16px -8px rgba(33, 35, 76, 0), 32px 0 rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  10% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px -8px rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  15% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -24px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  20% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -24px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  25% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -24px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  30% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -50px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  35% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -50px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  40% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -50px rgba(242, 205, 123, 0); }
+  45%, 55% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  60% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  65% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  70% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  75% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  80% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  85% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -24px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  90% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -24px rgba(33, 35, 76, 0), 16px -24px rgba(33, 35, 76, 0), 32px -32px rgba(255, 91, 133, 1); }
+  95%, 100% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -24px rgba(33, 35, 76, 0), 16px -24px rgba(33, 35, 76, 0), 32px -24px rgba(255, 91, 133, 0); }
+}
+@keyframes loading-square-loader {
+  0% { box-shadow: 16px -8px rgba(33, 35, 76, 0), 32px 0 rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  5% { box-shadow: 16px -8px rgba(33, 35, 76, 0), 32px 0 rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  10% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px -8px rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  15% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -24px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  20% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -24px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  25% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -24px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  30% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -50px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  35% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -50px rgba(33, 35, 76, 0), 32px -32px rgba(242, 205, 123, 0); }
+  40% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -50px rgba(242, 205, 123, 0); }
+  45%, 55% { box-shadow: 16px 0 rgba(33, 35, 76, 1), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  60% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 0 rgba(33, 35, 76, 1), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  65% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -16px rgba(33, 35, 76, 1), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  70% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -16px rgba(33, 35, 76, 1), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  75% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -16px rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  80% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  85% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -24px rgba(33, 35, 76, 0), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 1); }
+  90% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -24px rgba(33, 35, 76, 0), 16px -24px rgba(33, 35, 76, 0), 32px -32px rgba(255, 91, 133, 1); }
+  95%, 100% { box-shadow: 16px 8px rgba(33, 35, 76, 0), 32px 8px rgba(33, 35, 76, 0), 0 -8px rgba(33, 35, 76, 0), 16px -8px rgba(33, 35, 76, 0), 32px -8px rgba(33, 35, 76, 0), 0 -24px rgba(33, 35, 76, 0), 16px -24px rgba(33, 35, 76, 0), 32px -24px rgba(255, 91, 133, 0); }
+}
+
+.c-load--type2:before { box-shadow: 16px 0 0 rgba(33, 35, 76, 1), 32px 0 0 rgba(33, 35, 76, 1), 0 -16px 0 rgba(33, 35, 76, 1), 16px -16px 0 rgba(33, 35, 76, 1), 32px -16px 0 rgba(33, 35, 76, 1), 0 -32px rgba(33, 35, 76, 1), 16px -32px rgba(33, 35, 76, 1), 32px -32px rgba(255, 91, 133, 0); }
+.c-load--type2:after { background-color: rgba(255, 91, 133, 1); }
+.c-load--type1 { border: 3px solid rgba(33, 35, 76, 0.2); border-top-color: #21234c; }
+#site_loader_animation.c-load--type3 i { background: #21234c; }
+
+/* hover effect */
+.p-hover-effect--type1:hover img { -webkit-transform: scale(1.2) rotate(2deg); transform: scale(1.2) rotate(2deg); }
+.p-hover-effect--type2 img { margin-left: 15px; -webkit-transform: scale(1.2) translate3d(-15px, 0, 0); transform: scale(1.2) translate3d(-15px, 0, 0);}
+.p-hover-effect--type2:hover img { opacity: 0.5 }
+.p-hover-effect--type3 { background: #ffffff; }
+.p-hover-effect--type3:hover img { opacity: 0.5; }
+
+/* Page header */
+.p-page-header::before { background: rgba(11, 50, 71, 0.6) }
+
+/* Entry body */
+.p-entry__body a { color: #ff7f00; }
+
+/* Header */
+.l-header, .l-header--large.is-active { background: rgba(255, 255, 255, 1); }
+.l-header__logo a { color: #1e1e1e; } 
+.p-global-nav > li > a, .l-header--large.is-active .p-global-nav > li > a { color: #1e1e1e; }
+
+/* Contents builder */
+#cb_4::before { background: rgba( 0, 0, 0, 0.5); }
+
+/* Footer bar */
+
+/* Responsive */
+
+@media only screen and (max-width: 767px) {
+
+@-webkit-keyframes loading-square-loader {
+  0% { box-shadow: 10px -5px rgba(33, 35, 76, 0), 20px 0 rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  5% { box-shadow: 10px -5px rgba(33, 35, 76, 0), 20px 0 rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  10% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px -5px rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  15% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -15px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  20% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -15px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  25% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -15px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  30% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -50px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  35% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -50px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  40% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -50px rgba(242, 205, 123, 0); }
+  45%, 55% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  60% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  65% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  70% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  75% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  80% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  85% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -15px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  90% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -15px rgba(33, 35, 76, 0), 10px -15px rgba(33, 35, 76, 0), 20px -20px rgba(255, 91, 133, 1); }
+  95%, 100% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -15px rgba(33, 35, 76, 0), 10px -15px rgba(33, 35, 76, 0), 20px -15px rgba(255, 91, 133, 0); }
+}
+@keyframes loading-square-loader {
+  0% { box-shadow: 10px -5px rgba(33, 35, 76, 0), 20px 0 rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  5% { box-shadow: 10px -5px rgba(33, 35, 76, 0), 20px 0 rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  10% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px -5px rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  15% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -15px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  20% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -15px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  25% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -15px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  30% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -50px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  35% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -50px rgba(33, 35, 76, 0), 20px -20px rgba(242, 205, 123, 0); }
+  40% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -50px rgba(242, 205, 123, 0); }
+  45%, 55% { box-shadow: 10px 0 rgba(33, 35, 76, 1), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  60% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 0 rgba(33, 35, 76, 1), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  65% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -10px rgba(33, 35, 76, 1), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  70% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -10px rgba(33, 35, 76, 1), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  75% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -10px rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  80% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  85% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -15px rgba(33, 35, 76, 0), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 1); }
+  90% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -15px rgba(33, 35, 76, 0), 10px -15px rgba(33, 35, 76, 0), 20px -20px rgba(255, 91, 133, 1); }
+  95%, 100% { box-shadow: 10px 5px rgba(33, 35, 76, 0), 20px 5px rgba(33, 35, 76, 0), 0 -5px rgba(33, 35, 76, 0), 10px -5px rgba(33, 35, 76, 0), 20px -5px rgba(33, 35, 76, 0), 0 -15px rgba(33, 35, 76, 0), 10px -15px rgba(33, 35, 76, 0), 20px -15px rgba(255, 91, 133, 0); }
+}
+.c-load--type2:before { box-shadow: 10px 0 0 rgba(33, 35, 76, 1), 20px 0 0 rgba(33, 35, 76, 1), 0 -10px 0 rgba(33, 35, 76, 1), 10px -10px 0 rgba(33, 35, 76, 1), 20px -10px 0 rgba(33, 35, 76, 1), 0 -20px rgba(33, 35, 76, 1), 10px -20px rgba(33, 35, 76, 1), 20px -20px rgba(255, 91, 133, 0); }
+
+}
+
+/* Custom CSS */
+@charset "utf-8";
+/* CSS Document */
+
+/* アンカー調整 */
+.anchor{
+    display: block;
+    padding-top: 70px;
+    margin-top: -70px;
+}
+
+
+/*　安心のセキュリティ 2018/09/27更新 */
+.secu_wra{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	width: 840px;
+}
+
+.p-index-content01a{
+	padding: 60px 0 45px 0;
+	text-align: center;
+	font-family: "Segoe UI", Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+
+.secu_box{
+	display: flex;
+	align-items: center;
+	margin-bottom: 40px;
+}
+
+.secu_icon{
+	width: 20%;
+}
+
+.secu_txt h4{
+	color: #ff5b85;
+	font-size: 1.4em;
+}
+
+.secu_txt {
+	line-height: 2.2;
+}
+
+.top_img{
+	background: url(https://fujiko-san.com/wp/wp-content/uploads/2017/08/top0830.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 780px;
+}
+
+.top_btn{
+	display: block;
+	position: relative;
+	top: 500px;
+}
+
+.top_wra{
+	display: block;
+	width: 900px;
+	height: auto;
+	margin: 0 auto;
+}
+
+.top_btn a:hover{
+  -webkit-transition: .4s ease-in-out;
+  transition: .4s ease-in-out;
+	opacity: 0.7;
+}
+
+.style_top,
+.style_top2,
+.style_top3{
+background: #9cabd3;
+box-shadow: 0px 0px 0px 5px #9cabd3;
+border: dashed 2px white;
+padding: 0.2em 0.5em;
+font-size: 22px;
+font-weight: 400;
+color: #fff;
+	margin: 10px 0 60px;
+	text-align: center;
+}
+
+.style_top2 {
+	margin: 10px 0 0px;
+}
+.style_top3 {
+	margin: 0px;
+}
+
+.m_small{
+	margin: 90px 0 0;
+}
+
+.txt_box{
+    padding: 20px 0;
+    margin: 0 auto;
+	width: 780px;
+    font-weight: bold;
+    color: #6091d3;/*文字色*/
+    background: #FFF;
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+	text-align: center;
+	}
+
+
+.cb_3img{
+	display: block;
+	margin: 0 auto;
+	width: 600px;
+	height: auto;
+}
+.cb_3img2{
+	display: block;
+	margin: 0 auto;
+	height: auto;
+}
+
+.cb_4img{
+	display: block;
+	margin: 0 auto;
+	width: 800px;
+	height: auto;
+}
+
+/*　最下部お問い合わせ */
+
+.btmcv_wra{
+	width: 100%;
+	height: 550px;
+	background-image: url(https://fujiko-san.com/wp/wp-content/uploads/2018/02/bg_06b.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center top;
+	color: #fff;
+	font-family:  "Segoe UI", Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+.btmcv_txt{
+	color: #fff;
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 150px;
+}
+
+.btmcv_h{
+	font-size: 40px;
+}
+
+.btmcv_t{
+	font-size: 18px;
+	line-height: 2.2;
+	letter-spacing: -1px;
+	margin: 22px 0;
+}
+
+.btmcv_btn{
+	display: block;
+	width: 220px;
+	height: 40px;
+	margin: 0 auto;
+	background-color: #ff5b85;
+	color: #000;
+	border-radius: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 16px;
+	padding-top: 24px;
+	transition: 0.3s;
+}
+
+.btmcv_btn:hover{
+	background-color: #ffbf0f;
+	color: #fff;	
+}
+
+.btmcv_wra a{
+	text-decoration: none;
+}
+
+
+/*/// 導入事例 2018/02 追加分 ///*/
+
+.ray_wra{
+	width: 100%;
+	display: block;
+}
+
+.ray_box,
+.ray_box2{
+	width: 100%;
+	background-image: url(https://fujiko-san.com/wp/wp-content/uploads/2020/04/men_bace2-min.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center bottom;
+}
+
+.ray_box2{
+	background-image: url(https://fujiko-san.com/wp/wp-content/uploads/2018/02/bg_07.jpg);
+}
+
+.ray_flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 1000px;
+	height: auto;
+	padding: 80px 0;
+	margin: 0px auto;
+	animation: fadeIn 0.8s ease 0s 1 normal;
+    -webkit-animation: fadeIn 0.8s ease 0s 1 normal;
+}
+
+@keyframes fadeIn {
+    0% {opacity: 0; -webkit-transform: translateY(30px); -ms-transform: translateY(30px); transform: translateY(30px);}
+    100% {opacity: 1; -webkit-transform: translateY(0); -ms-transform: translateY(0); transform: translateY(0);}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity: 0; -webkit-transform: translateY(30px);}
+    100% {opacity: 1; -webkit-transform: translateY(0);}
+}
+
+.ray_txt{
+	font-family:  "Segoe UI", Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+	color: #fff;
+	width: 500px;
+}
+
+.ray_h{
+	font-size: 30px;
+	margin-bottom: 20px;
+	line-height: 1.4;
+}
+
+.ray_h2{
+	font-size: 28px;
+	margin-bottom: 20px;
+	line-height: 1.4;
+}
+
+.ray_bun{
+	font-size: 16px;
+	line-height: 2.2;
+}
+
+
+
+/*/// アコーディオン 2018/05 編集 ///*/
+
+#cb_8{
+margin: 80px auto 15px;
+}
+
+.cb6accordion{
+	width: 800px;
+	margin: 40px auto 0;
+}
+
+.cb6accordion p{
+	cursor: pointer;
+}
+.cb6accordion ul{
+	display:none;
+	padding: 15px 0;
+}
+
+.cb6accordion li{
+	margin:7px;
+}
+
+/*/// 依頼の多い業務 ///*/
+
+.sec01_wra{
+	display: block;
+	width: 250px;
+	margin: 0 auto;
+	padding: 15px 10px 5px;
+	border: 1px dotted #E5DBDB;
+}
+
+.sec01_img{
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+}
+
+.sec01_ttl{
+	font-weight: bold;
+	font-size: 22px;
+	color: #494e92;
+	display: block;
+	width: 200px;
+	text-align: center;
+	padding: 1em;
+	border-bottom: 1px dashed #494e92;
+	margin-bottom: 30px;
+}
+
+.sec01_btm {
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    background: #fff8e8;
+    border-left: solid 10px #ffc06e;
+}
+
+.sec01_btm p {
+    margin: 4px 0; 
+    padding: 0;
+}
+
+
+.sec01_txt2{
+    color: #cc9933;
+	padding-bottom: 7px;
+	border-bottom: 1px solid #cc9933;
+	line-height: 1.7;
+	
+}
+
+.sec01_txt3{
+	padding: 6px 0;
+line-height:1.5;
+}
+
+.sec01_txt1{
+	font-size: 14px;
+}
+
+.sec01{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  -webkit-flex-direction: row; /* Safari */
+  flex-direction:         row;
+  -webkit-justify-content: center; /* Safari */
+  justify-content:         center;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.sec01_ul{
+list-style-type: circle;
+padding-left:1.5em;
+height:110px;
+}
+.sec01_ul li{
+font-size: 16px;
+line-height:1.5;
+}
+
+/*/// ３つのメリット ///*/
+
+.sec02{
+	display: block;
+	width: 100%;
+	height: auto;
+	background: url(https://fujiko-san.com/wp/wp-content/uploads/2020/04/bg_01-min.jpg);
+	background-repeat: repeat;
+	padding: 60px 0 50px;
+	margin-top: 90px;
+}
+
+.sec02_ttl{
+	display: block;
+	margin: 0 auto 55px;
+	width: 526px;
+}
+
+.sec02_box{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  -webkit-flex-direction: row; /* Safari */
+  flex-direction:         row;
+  -webkit-justify-content: space-between; /* Safari */
+  justify-content: space-between;
+	width: 950px;
+	margin: 0 auto 60px;	
+}
+
+.sec02_l{
+	width: 400px;
+}
+
+.sec02_la{
+	margin-bottom: 20px;
+}
+
+.sec02_lb{
+	line-height: 1.7;
+}
+
+.sec02_r{
+	display: block;
+	width: 450px;
+}
+
+.sec02img{
+	display: block;
+	margin: 0 auto;
+}
+
+/*/// スライダー ///*/
+
+.slider_m{
+	margin: 40px 0 90px;
+}
+
+/*/// 導入事例 ///*/
+
+.p-showcase2 { color: #fff; overflow: hidden; position: relative; width: 100%; height: 700px; }
+.p-showcase2::before { box-sizing: border-box; content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+.p-showcase2--reverse .p-showcase2__content { right: 0; }
+.p-showcase2--reverse .p-showcase2__image { left: 0; }
+
+.p-showcase2__inner { height: 100%; opacity: 0; transition-property: opacity; transform: translateY(10%); }
+.p-showcase2__inner.is-active { opacity: 1; transform: translateY(0); transition: 0.5s; transition-delay: 0.5s; }
+
+.p-showcase2__content { position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%); width: 46.0177%; }
+
+.p-showcase2__catch { font-size: 40px; line-height: 1.4; margin-bottom: 15px; }
+
+.p-showcase2__desc { font-size: 16px; line-height: 2; margin-bottom: 15px; }
+
+.p-showcase2__image { position: absolute; right: 0; width: 50%; }
+.p-showcase2__image img { width: 100%; height: auto; }
+
+
+/*/// キャッチ ///*/
+
+.border01{
+	border-bottom: 1px solid #ff5b85;
+	border-top: 1px solid #ff5b85;
+	padding: 20px 0;
+}
+
+.b_red{
+	font-weight: bold;
+	color: #f13434;
+}
+
+.p-index-content01__catch2 {
+	font-size: 30px;
+	line-height: 1.4;
+	margin-bottom: 15px;
+font-family:"Segoe UI", Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif!important;
+}
+
+/*/// ３アイコン ///*/
+
+.icon3{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  -webkit-flex-direction: row; /* Safari */
+  flex-direction:         row;
+  -webkit-justify-content: space-between; /* Safari */
+  justify-content: space-between;	
+	width: 1050px;
+	margin: 0 auto;
+}
+
+.icon3_box{
+	width: 300px;
+	padding: 0 10px;
+	text-align: center;
+}
+
+.icon3_icon{
+	display: block;
+	margin: 0 auto;
+	width: 160px;
+	transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+}
+
+.icon3_icon:hover {
+    transform: rotate(360deg);
+	cursor: pointer;
+}
+
+.icon3_ttl{
+	font-weight: bold;
+	line-height: 1;
+	letter-spacing: 1px;
+	border-bottom: 1px dashed #ff5b85;
+	font-size: 18px;
+padding-bottom: 1em;
+}
+
+.icon3_ttl a{
+	text-decoration: none;
+	transition: .2s;
+	color: #262626;
+}
+
+.icon3_ttl a:hover{
+	color: #f0426f;
+}
+
+.icon3_p{
+	line-height: 2.3;
+	text-align: left;
+	font-size: 14px;
+	margin-top: 30px;
+}
+
+/*/// 料金 ///*/
+
+.price{
+	display: block;
+	width: 900px;
+	text-align: left;
+	font-size: 13px;
+	color: #757171;
+	line-height: 1.5;
+	padding: 30px 0;
+}
+
+
+/*/// 導入までのステップ ///*/
+
+.sec03{
+	display: block;
+	width: 100%;
+	height: auto;
+	background: url(https://fujiko-san.com/wp/wp-content/uploads/2020/04/bg_03-min.jpg);
+	background-repeat: repeat;
+	padding: 60px 0 80px;
+}
+
+.sec03_img{
+	display: block;
+	margin: 0 auto;
+	width: 605px;
+}
+
+
+
+/*/// TOPのボタン ///*/
+
+.top_cv {
+  display: inline-block;
+  width: 250px;
+  height: 54px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+	position: relative;
+  z-index: 2;
+  background-color: #f0426f;
+  border: 2px solid #f0426f;
+  color: #fff;
+  line-height: 50px;
+}
+.top_cv:hover {
+  background-color: #fff;
+  border-color: #f0426f;
+  color: #f0426f;
+}
+
+.top_cv::before,
+.top_cv::after {
+  position: absolute;
+  z-index: -1;
+  display: block;
+  content: '';
+	  top: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #f0426f;
+}
+.top_cv,
+.top_cv::before,
+.top_cv::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.top_cv::before {
+  right: 0;
+}
+.top_cv::after {
+  left: 0;
+}
+.top_cv:hover::before,
+.top_cv:hover::after {
+  width: 0;
+  background-color: #f0426f;
+}
+
+/*///  連絡実例 ///*/
+
+.renraku {
+  display: block;
+  width: 180px;
+  height: 54px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+	position: relative;
+  z-index: 2;
+  background-color: #f0426f;
+  border: 2px solid #f0426f;
+  color: #fff;
+  line-height: 50px;
+margin: 0 auto;
+}
+.renraku:hover {
+  background-color: #fff;
+  border-color: #f0426f;
+  color: #f0426f;
+}
+
+.renraku::before,
+.renraku::after {
+  position: absolute;
+  z-index: -1;
+  display: block;
+  content: '';
+	  top: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #f0426f;
+}
+.renraku,
+.renraku::before,
+.renraku::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.renraku::before {
+  right: 0;
+}
+.renraku::after {
+  left: 0;
+}
+.renraku:hover::before,
+.renraku:hover::after {
+  width: 0;
+  background-color: #f0426f;
+}
+
+/*///  連絡実例 ///*/
+
+.renraku {
+  display: block;
+  width: 180px;
+  height: 54px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+	position: relative;
+  z-index: 2;
+  background-color: #f0426f;
+  border: 2px solid #f0426f;
+  color: #fff;
+  line-height: 50px;
+margin: 0 auto;
+}
+.renraku:hover {
+  background-color: #fff;
+  border-color: #f0426f;
+  color: #f0426f;
+}
+
+.renraku::before,
+.renraku::after {
+  position: absolute;
+  z-index: -1;
+  display: block;
+  content: '';
+	  top: 0;
+  width: 50%;
+  height: 100%;
+  background-color: #f0426f;
+}
+.renraku,
+.renraku::before,
+.renraku::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all .3s;
+  transition: all .3s;
+}
+.renraku::before {
+  right: 0;
+}
+.renraku::after {
+  left: 0;
+}
+.renraku:hover::before,
+.renraku:hover::after {
+  width: 0;
+  background-color: #f0426f;
+}
+
+/*/// 利用料金の表 ///*/
+
+.cb16{
+	width: 950px;
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  -webkit-flex-direction: row; /* Safari */
+  flex-direction:         row;
+  -webkit-justify-content: space-between; /* Safari */
+  justify-content: space-between;	
+	margin: 0 auto;
+}
+
+.cb16img{
+dispray:block
+	width: 950px;
+	margin: 50px auto 0;
+}
+
+/*/// TOPレスポンシブ ///*/
+
+.top_img_sp{
+	display: none;
+}
+
+
+/*/// フローティングバナー ///*/
+
+.bn_flow{
+	padding: 10px;
+}
+
+/*/// 問い合わせページ 2018/08 追加 ///*/
+.wpcf7 .wpcf7-list-item{
+display: inline;
+/*/// 問い合わせページ 2022/07 削除 ///*/
+/*padding-left: 20px;*/
+margin-right: 8px;
+}
+
+/*/// スマホ表示 ///*/
+
+.c-menu-button { color: #27335b;}
+
+
+/*/// ヘッダー下部ライン ///*/
+.l-header.is-active {
+	border-bottom: 1px solid  #595a5c;
+}
+
+/*/// スマホグローバルメニュー ///*/
+@media only screen and (max-width:1200px){
+
+	.p-global-nav li.current-menu-item a,
+	.p-global-nav>li>a:hover{
+		color:#fff
+	}
+
+	.p-global-nav .menu-item-has-children>a>span::before{
+		color:#27335b;
+		background-color: #fff;
+	}
+	.p-global-nav a{
+		color:#fff!important;
+	}
+
+	.p-global-nav > li{
+		background-color: #27335b;
+		border-bottom: 1px solid #fff;
+	}
+}
+.br_sp{
+display:none;
+}
+
+/*////// タブレット //////*/
+
+@media screen and (max-width: 1024px) {
+#cb_9 p{
+color:#fff;
+}
+.sec01_wra{
+width:220px;
+}
+.sec01_ttl{
+width:auto;
+}
+.icon3_ttl{
+margin-top:0;
+line-height:1.2;
+padding-bottom:.6em;
+}
+.p-index-content02{
+margin-bottom:3em;
+}
+.icon3_p{
+margin-top:1.5em;
+}
+.p-index-content01{
+padding-bottom:0;
+}
+.p-index-content01{
+padding-top:3em;
+}
+.cb_4img{
+margin:2em auto 0;
+}
+}
+
+@media screen and (max-width: 768px) {
+.p-index-content01__desc{
+margin-bottom:30px;
+}
+.p-index-content01{
+width:90%;
+margin:0 auto;
+}
+.p-index-content01__catch2{
+width:90%;
+margin:0 auto 15px;
+}
+	.br_pc{
+		display: none;
+	}
+
+	.secu_wra{
+	width: 88%;
+}
+	.secu_txt{
+		padding-left: 15px;
+	}
+
+/*/// お問い合わせ ///*/
+.btmcv_wra{
+	background-attachment: scroll;
+}
+
+.btmcv_txt{
+	width: 90%;
+}
+
+/*/// 導入事例 ///*/
+.ray_flex{
+	width: 90%;
+	height: auto;
+	padding: 80px 0;
+}
+
+.ray_img{
+display: none;
+}
+
+.ray_txt{
+	width: 100%;
+margin: 0 auto;
+}
+
+.ray_box,
+.ray_box2{
+	background-attachment: scroll;
+}
+
+/*/// アコーディオン ///*/
+.cb6accordion{
+display: block;
+width: 95%;
+}
+
+.cb6accordion img{
+width: 100%;
+}
+
+/*/// ３アイコン ///*/
+
+.icon3{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  -webkit-flex-direction: column; /* Safari */
+  flex-direction:         column;
+  -webkit-justify-content: space-between; /* Safari */
+  justify-content: space-between;	
+	width: 100%;
+	margin: 0 auto;
+}
+
+.icon3_box{
+	width: 80%;
+	padding: 0 10px;
+	text-align: center;
+margin: 0 auto;
+}
+
+.icon3_icon{
+	display: none;
+}
+
+.icon3_icon:hover {
+    transform: none;
+	cursor: pointer;
+}
+
+.icon3_ttl{
+	line-height: 1;
+	letter-spacing: 1px;
+	margin-top: 0px;
+	font-size: 20px;
+}
+.icon3_ttl a{
+color: #ff5b85;
+}
+
+.icon3_p{
+	line-height: 2;
+	text-align: left;
+	font-size: 16px;
+	margin-top: 16px;
+	margin-bottom: 0px;
+}
+	
+/*/// 画像 ///*/
+
+.cb_3img,
+.cb_3img2{
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	height: auto;
+}	
+
+.cb_4img{
+	width: 98%;
+	height: auto;
+}
+	
+/*/// 導入までのステップ ///*/
+
+.sec03{
+	padding: 60px 0 80px;
+}
+
+.sec03_img{
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	height: auto;
+}
+		
+/*/// 依頼の多い業務 ///*/
+
+	
+.sec01{
+  -webkit-flex-direction: column; /* Safari */
+  flex-direction:row;	
+	width: 90%;
+flex-wrap:wrap;
+}	
+	
+	
+.sec01_wra{
+	display: block;
+	width: 45%;
+	margin: 0 auto;
+	padding: 15px 10px 5px;
+	border: 1px dotted #E5DBDB;
+}
+
+	.sec01_wra p{
+		text-align: center;
+	}	
+	
+.sec01_img{
+	display: none;
+	margin: 0 auto;
+	width: 0px;
+	height: 0px;
+}
+
+.sec01_ttl{
+	font-weight: bold;
+	font-size: 22px;
+	color: #494e92;
+	display: block;
+	width: 100%;
+	text-align: center;
+	padding: 0 0 .5em 0;
+	border-bottom: 1px dashed #494e92;
+	margin-bottom: 10px;
+}
+.sec01_ul{
+height:140px;
+}
+
+.sec01_btm {
+    padding: 0.5em 1em;
+    margin: 0;
+    background: #fff8e8;
+    border-left: solid 10px #ffc06e;
+}
+
+.sec01_btm p {
+    margin: 0px 0; 
+    padding: 0;
+}
+
+
+.sec01_txt2{
+    color: #cc9933;
+	padding-bottom: 7px;
+	border-bottom: 1px solid #cc9933;
+	line-height: 1.7;
+	
+}
+
+.sec01_txt3{
+	padding: 6px 0;
+	text-align: center;
+}
+
+.sec01_txt1{
+	font-size: 14px;
+	margin-bottom: 6px;
+}
+
+/*///  連絡実例 ///*/
+
+.renraku {
+  display: block;
+  width: 70%;
+  height: 54px;
+margin: 1em auto 0;
+}	
+	
+/*/// ３つのメリット ///*/
+
+.sec02{
+	display: block;
+	padding: 60px 0 50px;
+	margin-top: 90px;
+}
+
+.sec02_ttl{
+	display: block;
+	margin: 0 auto 40px;
+	width: 100%;
+	text-align: center;
+}
+
+	.sec02_ttlimg{
+		width: 90%;
+	}	
+	
+	.sec02_in{
+		width: 90%;
+		text-align: center;
+		margin: 0 auto;
+		display: block;
+	}
+	
+.sec02_box{
+  display: -webkit-flex; /* Safari */
+  display: flex;
+  -webkit-flex-direction: column; /* Safari */
+  flex-direction:         column;	
+	width: 100%;
+	margin: 0 auto 60px;	
+}
+
+.sec02_l{
+	width: 100%;
+}
+
+.sec02_la{
+	margin-bottom: 20px;
+}
+
+.sec02_lb{
+	line-height: 1.7;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.sec02_r{
+	display: block;
+	width: 100%;
+}
+
+.sec02img{
+	display: block;
+	margin: 50px auto 0;
+	width: 90%;
+}
+.sec02img.timg_02{
+width:45%;
+}
+.sec02img.timg_03{
+width:40%;
+}
+/*/// 利用料金 ///*/
+
+.cb_16_table{
+	display: block;
+	width: 100%;
+}
+
+.price{
+	display: block;
+	width: 90%;
+	text-align: left;
+	font-size: 13px;
+	line-height: 1.5;
+	padding: 30px 0 0px;
+}
+	
+	.cb_16img{
+		display: block;
+		width: 22%;
+	}
+	
+/*/// 利用料金 ///*/
+
+.cb16{
+	width: 90%;
+	margin: 0 auto;
+}
+
+.cb16img{
+margin: 20px auto 0;
+	width: 100%;
+}
+	.cb_16_img,
+.cb16img_size{
+		width: 90%;
+	}	
+
+.price{
+	display: block;
+	width: 90%;
+	text-align: left;
+	font-size: 13px;
+	line-height: 1.5;
+	padding: 30px 0 0px;
+}
+
+/*/// ファーストビュー ///*/
+	
+.top_img{
+	background: url(https://fujiko-san.com/wp/wp-content/uploads/2017/08/bg_top_sp.jpg);
+	background-position: center;
+	background-size: auto;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 780px;
+}
+
+.top_btn{
+	display: block;
+	position: relative;
+	top: 600px;
+}
+
+.top_wra{
+	display: block;
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+}	
+	
+/*/// TOPのボタン ///*/
+
+.top_cv {
+  display: inline-block;
+  width: 100%;
+  height: 60px;
+	font-size: 22px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+	position: relative;
+  z-index: 2;
+  background-color: #f0426f;
+  border: 2px solid #f0426f;
+  color: #fff;
+  line-height: 60px;
+}
+
+/*/// ファーストビュー ///*/
+	
+	.top_img{
+		display: none;
+	}
+	
+.top_img_sp{
+	display: block;
+}
+
+.topsp_wra{
+	background: url(https://fujiko-san.com/wp/wp-content/uploads/2020/04/topview_sp-min.png);
+	background-position:  75% 80%;
+		background-repeat: no-repeat;
+		background-size: cover;
+	width: 100%;
+		height: 700px;
+		
+	}
+	
+.topsp_catch{
+		display: block;
+		padding-top: 300px;
+		text-align: center;
+	}
+	
+.topsp_btn{
+		text-align: center;
+		padding-top: 40px;
+		font-size: 20px;
+	}
+	
+	.topsp_btn a{
+		text-decoration: none;
+	}
+	
+	.topsp_cv {
+  display: inline-block;
+  width: 300px;
+  height: 60px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+	position: relative;
+  z-index: 2;
+  background-color: #f0426f;
+  border: 2px solid #f0426f;
+  color: #fff;
+  line-height: 60px;
+}
+.p-index-slider{
+height:700px;
+}
+	
+.sec03_img{
+width:90%;
+}
+.sec02img{
+width:50%;
+}
+.sec02_in{
+width:60%;
+}
+/*/// フローティングバナー ///*/
+
+.bn_flow_sp{
+	width: 40%;
+    min-width: 200px;
+}	
+
+.bn_flow{
+	padding: 0;
+}
+
+	footer{
+		padding-bottom: 40px;
+	}
+.p-index-content02{
+padding-top:0;
+}
+
+}
+
+
+/*/// フッター ///*/
+
+.l-footer__inner { 
+    /* padding-bottom: 150px;  */
+}
+
+/*////// スマホ //////*/
+
+@media screen and (max-width: 480px) {
+.br_pc{
+dispray:none;
+}
+	.secu_box{
+		flex-direction: column;
+	}	
+	.secu_icon{
+		width: auto;
+		margin-bottom: 15px;
+	}
+	.secu_txt{
+		line-height: 2;
+	}
+	.p-index-content01__catch2{
+		font-size: 20px;
+	}
+	.p-index-content01a{
+		padding: 30px 0 20px 0;
+	}
+.company_tab p{
+font-size:12px !important;
+}
+	.topsp_wra{
+	background: url(https://fujiko-san.com/wp/wp-content/uploads/2020/04/topview_sp-min.png);
+	background-position: 0;
+		background-repeat: no-repeat;
+		background-size: contain;
+	width: 100%;
+		height: 700px;
+		
+	}
+	
+	.topsp_catch{
+		display: block;
+		padding-top: 30px;
+		text-align: center;
+	}
+	
+	.topsp_btn{
+		text-align: center;
+		padding-top: 270px;
+		font-size: 20px;
+	}
+.p-index-slider{
+height:520px;
+}
+.p-index-content01__catch{
+text-align:left;
+font-size:20px!important;
+margin-bottom:1em;
+}
+.p-index-content01__catch2{
+font-family:"Segoe UI", Verdana, "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+text-align:left;
+}
+.p-index-content01__desc{
+text-align:left;
+margin: 0 auto 2em;
+width:90%;
+}
+.p-index-content01{
+padding-top:2em;
+}
+.icon3_icon{
+display:block;
+}
+.icon3_icon img{
+width:80%;
+}
+.icon3_ttl{
+line-height:.5;
+padding-bottom:1em;
+}
+.icon3_p{
+margin-bottom:1.2em;
+font-size:14px;
+}
+.p-index-content02{
+padding-top:.2em;
+margin-bottom:3em;
+border-top:none;
+}
+.p-showcase__catch,.p-showcase__desc{
+text-align:left;
+}
+.p-showcase__desc{
+font-size: 14px!important;
+margin-bottom:3em;
+}
+.p-button{
+font-size:16px;
+min-width:270px;
+}
+#cb_6,#cb_8,#cb_10{
+padding: 0 1em;
+}
+.style_top,.style_top2, .style_top3{
+font-size:18px;
+text-align:left;
+}
+.style_top{
+margin:10px auto 1em;
+}
+#cb_8{
+margin:3em auto 15px;
+}
+
+#cb_10 p{
+display:none;
+}
+.sec01_ttl{
+padding:0 0 .5em 0
+}
+.sec01_wra{
+margin-bottom:1em;
+width:100%;
+}
+.border01{
+padding:.8em;
+}
+.p-index-content08 .p-index-content08__inner{
+width:90%;
+}
+.sec01_ul{
+height:auto;
+margin-bottom:1em;
+}
+.sec02{
+margin-top:0;
+}
+.sec02img{
+width:90%;
+}
+.sec02_box {
+margin: 0 auto 3em;
+}
+.ray_bun{
+line-height:2;
+}
+.style_top3{
+width:90%;
+margin:0 auto;
+}
+.sec02img.timg_02,.sec02img.timg_03{
+margin-top:1.5em;
+}
+#cb_19{
+width:90%;
+margin:0 auto;
+}
+.btmcv_h{
+font-size:30px;
+line-height:1.4;
+}
+.btmcv_t{
+line-height:2;
+}
+.br_sp{
+display:block;
+}
+	.topsp_cv {
+  width: 180px;
+  height: 40px;
+  line-height: 40px;
+}
+.cb_4img{
+margin-top:0;
+}
+}
+
+p.text-align-right {
+    text-align: right;
+}
+
+/* アコーディオンメニュー 202207更新 */
+.acd-wrapper {
+    border: #F95D84 1px solid;
+    background-color: white;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    }
+    .acd-wrapper:hover,
+    .acd-wrapper:active,
+    .acd-wrapper.is-active {
+    background-color: #fff8e8;
+    transition : .3s;
+    }
+    
+    .acd-content {
+    text-align: center;
+    line-height: 0;
+    height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition-duration: 0.4s;
+    }
+    
+    .acd-content.is-open {
+    border: #F95D84 1px solid;
+    padding: 10px;
+    line-height: normal;
+    height: auto;
+    opacity: 1;
+    }
+    
+    /* アコーディオン_その他微調整 */
+    .acd-wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items:center;
+    }
+        
+    .cb6accordion li img{
+        position:initial!important;
+        width: 100%!important;
+    }
+    
+    
+    .acd-arrow img{
+        width: auto!important;
+    }
+    
+    .cb6accordion li {
+        line-height: 1;
+        border: none!important;
+    }
+    
+    .acd-case {
+        background-color: #f95d84;
+        color: #fff;
+        width: 100px;
+        left: 0;
+    }
+    
+    .acd-arrow{
+        width: 0;
+        height: 0;
+        border-left: 15px solid transparent;
+        border-right: 15px solid transparent;
+        border-top: 15px solid #F95D84;
+    }
+    
+    .acd-sp{
+        display: none;
+    }
+    
+    @media screen and (max-width: 768px) {
+        .acd-pc{
+            display: none;
+        }
+        .acd-sp{
+            display: block;
+        }
+    
+        .acd-wrapper {
+            flex-direction: column;
+        }
+        .acd-contents {
+            display: flex;
+            align-items: center;
+        }
+        .acd-case {
+            width: 100%;
+        }
+        .acd-arrow {
+            position: absolute;
+            right: 8px;
+            border-left: 10px solid transparent;
+            border-right: 10px solid transparent;
+            border-top: 10px solid #F95D84;
+        }
+        .cb6accordion li:nth-of-type(5) {
+            line-height: 45px;
+        }
+        .cb6accordion li img {
+            width: 100%!important;
+            max-width: 100%;
+        }
+        .cb6accordion {
+            margin-bottom: 40px;
+        }
+    }
+    
+
+.cb6accordion li:nth-of-type(5)>.acd-wrapper>.acd-contents>p {
+    line-height: 1;
+    padding: 15px 0;
+}
+
+.wpcf7-list-item {
+    margin: 0;
+}
+
+.slider .slick-track>p{
+  display:none !important;
+}
+
+
+/* 202208ユニラボ情報追加 */
+/* pc */
+@media screen and (min-width: 768px) {
+    .sec01_ttl {
+        height: 28px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .sec01_btm {
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    p.sec01_txt2 {
+        height: 47px;
+        display: flex;
+        align-items: center;
+    }
+    .sec01_ttl.sec01_ttl--small {
+        font-size: 20px;
+        height: 32px;
+    }
+    p.sec01_txt2.sec01_txt2--small {
+        font-size: 14px;
+    }
+
+}
+
+/* sp */
+@media screen and (max-width: 768px) {
+    .br_pc{
+        display:none;
+    }
+    .sec01_wra {
+        margin-bottom: 4em;
+    }
+}
+
+div#cb_9 {
+    padding-top: 35px;
+    margin-top: -35px;
+}
+
+body {
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.pink {
+    color: #54b6d4;
+}</style>
+<meta name="generator" content="Elementor 3.34.2; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+					<style type="text/css" id="wp-custom-css">
+			.footer_menu{
+	margin-right:0;
+}
+
+
+.p-global-nav > li > a {
+    padding-left: 17px;
+    padding-right: 17px;
+}
+
+
+
+.btn_freetrial{border-radius:15px;}
+
+
+
+.benefit-txt{
+	position: absolute;
+	font-weight: bold;
+  font-size: 16px;
+  z-index: 500;
+  text-shadow:1px 1px 0 #FFF, -1px -1px 0 #FFF,
+              -1px 1px 0 #FFF, 1px -1px 0 #FFF,
+              0px 1px 0 #FFF,  0-1px 0 #FFF,
+              -1px 0 0 #FFF, 1px 0 0 #FFF;
+	animation: slide_in 1s ease-in forwards;
+  opacity: 0;
+  animation-delay: 3s;
+  transition: .3s;
+}
+@media screen and (min-width: 1500px){
+	.benefit-position{
+    max-width: 490px;
+    min-width: 300px;
+		left: 12%;
+    top: 83%;
+    }	
+}
+
+@media screen and (min-width: 1201px) and (max-width: 1500px){
+	.benefit-position{
+    max-width: 490px;
+    min-width: 300px;
+    left: 5%;
+    top: 79%;
+    }
+}
+
+@media screen and (max-width: 1200px){
+	.benefit-position{
+		top: 77%;
+		left: 2%;
+	}
+}
+
+@media screen and (max-width: 767px){
+	.benefit-position{
+		top: 80%;
+		left: 2%;
+	}
+.benefit-txt{
+	font-size: 0.7em;
+	}
+}
+
+
+.form_2024 .wpcf7-previous {
+  width: calc(50% - 20px)!important;
+	margin-right:20px!important;
+	margin-left:0!important;
+}
+
+.form_2024 .wpcf7-submit {
+  width: calc(50% - 20px)!important;
+	margin-left:20px!important;
+	margin-right:0!important;
+}
+
+.form_2024_plan_button_wrap_firststep {
+	flex-direction:column;
+	justify-content:center!important;
+	width:350px!important;
+}
+
+.form_2024_plan_button_wrap_firststep .wpcf7-submit {
+	width:100%!important;
+}
+
+.form_2024_plan_button_wrap.button_single_centering {
+	flex-direction:column;
+	justify-content:center;
+}
+
+.form_2024_plan_button_wrap.button_single_centering input{
+	margin-left:auto!important;
+	margin-right:auto!important;
+}
+
+.fb{
+	font-weight:bold;
+}
+
+
+.cp-price-bn2504{
+	text-align: center;
+    margin: 50px auto;
+    display: block;
+}
+
+span#price {
+    font-size: 25px !important;
+}
+
+@media screen and (max-width: 767px){
+	span#price {
+    font-size: 16px !important;
+}
+}		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>		<script src="https://r.moshimo.com/af/r/maftag.js"></script>
+		<link rel="icon" href="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/favicon.ico">
+		<link rel="apple-touch-icon" href="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/apple-touch-icon.png" />
+		<script type="text/javascript">
+			var $zoho = $zoho || {};
+			$zoho.salesiq = $zoho.salesiq || {
+				widgetcode: "790af4476958435f241c328a2ce9210911b9543d512a917599f23515e99ca87e",
+				values: {},
+				ready: function() {}
+			};
+			var d = document;
+			s = d.createElement("script");
+			s.type = "text/javascript";
+			s.id = "zsiqscript";
+			s.defer = true;
+			s.src = "https://salesiq.zoho.com/widget";
+			t = d.getElementsByTagName("script")[0];
+			t.parentNode.insertBefore(s, t);
+			d.write("<div id='zsiqwidget'></div>");
+		</script>
+
+		
+		
+		<script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=default%2CHTMLPictureElement"></script>
+	</head>
+
+	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4RS7J2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+		<!-- 			<div id="site_loader_overlay">
+				<div id="site_loader_animation" class="c-load--type3">
+											<i></i><i></i><i></i><i></i>
+									</div>
+			</div>
+			<div id="site_wrap">
+		 -->
+			<header id="js-header" class="l-header is-fixed">
+				<div class="l-header__inner">
+												<div class="p-logo l-header__logo">
+																	<a href="https://fujiko-san.com/"><img src="https://fujiko-san.com/wp/wp-content/uploads/2024/09/logo_header.png" alt="オンラインアシスタントならフジ子さん | 経理・人事・総務などバックオフィス業務を代行"></a>
+															</div>
+						
+
+												<a href="#" id="js-menu-button" class="p-menu-button c-menu-button">
+								<span></span><span></span><span></span>
+							</a>
+						<nav class="menu-%e3%83%8a%e3%83%93-container"><ul id="js-global-nav" class="p-global-nav u-clearfix"><li id="menu-item-14539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14539"><a href="https://fujiko-san.com/service/">「フジ子さん」とは<span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-14540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14540"><a href="https://fujiko-san.com/service/">サービス概要<span></span></a></li>
+	<li id="menu-item-14541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14541"><a href="https://fujiko-san.com/security/">セキュリティについて<span></span></a></li>
+	<li id="menu-item-14543" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14543"><a href="https://fujiko-san.com/terms/">利用規約<span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-14545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14545"><a href="https://fujiko-san.com/price/">料金プラン<span></span></a></li>
+<li id="menu-item-23163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23163"><a href="https://fujiko-san.com/case/">導入事例<span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-23164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23164"><a href="https://fujiko-san.com/case/">お客様の声<span></span></a></li>
+	<li id="menu-item-14549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14549"><a href="https://fujiko-san.com/faq/">よくあるご質問<span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-14551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-14551"><a href="https://fujiko-san.com/library/">お役立ち情報<span></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-14552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14552"><a href="https://fujiko-san.com/library/">お役立ち資料<span></span></a></li>
+	<li id="menu-item-14553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14553"><a href="https://fujiko-san.com/blog/">ブログ<span></span></a></li>
+</ul>
+</li>
+<li id="menu-item-20578" class="menu-item menu-item-type-post_type_archive menu-item-object-seminar menu-item-20578"><a href="https://fujiko-san.com/seminar/">セミナー・キャンペーン<span></span></a></li>
+<li id="menu-item-14550" class="careers menu-item menu-item-type-custom menu-item-object-custom menu-item-14550"><a target="_blank" href="https://fujiko-san.com/careers/">採用情報<span></span></a></li>
+<li id="menu-item-25281" class="careers menu-item menu-item-type-custom menu-item-object-custom menu-item-25281"><a target="_blank" href="https://b.fujiko-san.com/3Em2xle">パートナー<span></span></a></li>
+<li id="menu-item-22577" class="consultation menu-item menu-item-type-post_type menu-item-object-page menu-item-22577"><a href="https://fujiko-san.com/consultation/">ご相談予約ページ<span></span></a></li>
+</ul></nav>
+					<div class="header_branch_link">
+						<a href="https://fujiko-san.com/contact3/" class="btn color_blue">お問い合わせ</a><a href="https://fujiko-san.com/consultation/" class="btn line_blue">ご相談予約</a>
+					</div>
+				</div>
+			</header><main class="l-main">	
+			<ul class="l-inner p-breadncrumb c-breadcrumb u-clearfix" itemscope itemtype="http://schema.org/BreadcrumbList">
+			<li class="p-breadcrumb__item c-breadcrumb__item c-breadcrumb__item--home" itemprop="itemListElement" itemscope
+      itemtype="http://schema.org/ListItem">
+				<a href="https://fujiko-san.com/" itemtype="http://schema.org/Thing"
+       itemprop="item"><span itemprop="name">HOME</span></a>
+				<meta itemprop="position" content="1" />
+			</li>
+						<li class="p-breadcrumb__item c-breadcrumb__item">お探しのページは見つかりませんでした。</li>
+					</ul>	
+	<header class="p-page-header">
+		<div class="p-page-header__inner">
+			<div class="l-inner left_line">
+			<h1></h1>
+			</div>
+		</div>
+	</header>
+
+	<p class="dl_top_message"></p>
+	<div class="l-inner">
+	</div>
+<div id="js-pagetop" class="p-pagetop"><a href="#"></a></div>
+</main>
+<footer class="l-footer nv_footer">
+	<div class="l-footer__inner l-inner">
+		
+		<div class="nv_footer_inner">
+			<div class="footer_up_pc">
+				<ul>
+					<li>「フジ子さん」とは</li>
+					<li>
+						<ul>
+							<li><a href="https://fujiko-san.com/service/">サービス概要</a></li>
+							<li><a href="https://fujiko-san.com/security/">セキュリティについて</a></li>
+							<li><a href="https://fujiko-san.com/terms/">利用規約</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li>企業情報</li>
+					<li>
+						<ul>
+							<li><a class="outlink" href="https://bpo-tech.co.jp/" target="_blank" rel="noopener noreferrer external">運営会社</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li>お役立ち情報</li>
+					<li>
+						<ul>
+							<li><a href="https://fujiko-san.com/library/">お役立ち資料</a></li>
+							<li><a href="https://fujiko-san.com/blog/">ブログ</a></li>
+						</ul>
+					</li>
+				</ul>
+				<ul>
+					<li><a href="https://fujiko-san.com/terms/">利用規約</a></li>
+              <li><a href="https://fujiko-san.com/compliance/">コンプライアンス行動規範</a></li>
+					<li><a href="https://fujiko-san.com/policy/">プライバシーポリシー</a></li>
+					<li><a href="https://fujiko-san.com/securitypolicy/">情報セキュリティポリシー</a></li>
+	           <li><a href="https://fujiko-san.com/notation/">特定商取引法に基づく表記</a></li>
+						</ul>
+			
+				<div class="footer_last">
+					<ul>
+						<li><a href="https://fujiko-san.com/price/">料金プラン</a></li>
+						<li><a href="https://fujiko-san.com/case/">お客様の声</a></li>
+						<li><a href="https://fujiko-san.com/faq/">よくあるご質問</a></li>
+					</ul>
+					<div class="footer_branch_link">
+						<a href="https://fujiko-san.com/careers/" class="btn line_blue">採用情報</a>
+						<a href="https://fujiko-san.com/contact3/" class="btn color_blue">お問い合わせ</a>
+					</div>
+				</div>
+
+
+			</div>
+			<div class="footer_up_sp">
+				<ul class="accordion-area">
+					<li>
+						<div class="accordion_title">
+							<span class="accordion_title_span">「フジ子さん」とは</span>
+						</div>
+						<div class="box">
+							<ul>
+								<li>
+									<a href="https://fujiko-san.com/service/">サービス概要</a>
+								</li>
+								<li>
+									<a href="https://fujiko-san.com/security/">セキュリティについて</a>
+								</li>
+								<li>
+									<a href="https://fujiko-san.com/terms/">利用規約</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<div class="accordion_title">
+							<span class="accordion_title_span">企業情報</span>
+						</div>
+						<div class="box">
+							<ul>
+								<li><a class="outlink" href="https://bpo-tech.co.jp" target="_blank" rel="noopener noreferrer external">運営会社</a></li>
+															</ul>
+						</div>
+					</li>
+					<li>
+						<div class="accordion_title">
+							<span class="accordion_title_span">お役立ち情報</span>
+						</div>
+						<div class="box">
+							<ul>
+								<li>
+									<a href="https://fujiko-san.com/library/">お役立ち資料</a>
+								</li>
+								<li>
+									<a href="https://fujiko-san.com/blog/">ブログ</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+
+					<li>
+						<div class="accordion_title">
+							<span class="accordion_title_span">利用規約</span>
+						</div>
+						<div class="box">
+							<ul>
+								<li>
+									<a href="https://fujiko-san.com/terms/">利用規約</a>
+								</li>
+								<li>
+									<a href="https://fujiko-san.com/policy/">プライバシーポリシー</a>
+								</li>
+								<li>
+									<a href="https://fujiko-san.com/compliance/">コンプライアンス行動規範</a>
+								</li>
+								<li>
+									<a href="https://fujiko-san.com/securitypolicy/">情報セキュリティポリシー</a>
+								</li>
+							</ul>
+						</div>
+					</li>
+					<li class="no_accordion">
+						<a href="https://fujiko-san.com/price/">料金プラン</a>
+					</li>
+					<li class="no_accordion">
+						<a href="https://fujiko-san.com/case/">お客様の声</a>
+					</li>
+					<li class="no_accordion">
+						<a href="https://fujiko-san.com/faq/">よくあるご質問</a>
+					</li>
+				</ul>
+				<div class="footer_branch_link">
+					<a href="https://fujiko-san.com/careers/" class="btn line_blue">採用情報</a>
+					<a href="https://fujiko-san.com/contact3/" class="btn color_blue">お問い合わせ</a>
+				</div>
+			</div>
+
+
+
+
+
+
+
+			<div class="footer_down">
+				<div class="footer_company">
+					<div>
+						<img src="https://fujiko-san.com/wp/wp-content/uploads/2023/01/company_logo-1.png" alt="オンラインアシスタントならフジ子さん | 経理・人事・総務などバックオフィス業務を代行">
+						<div>
+															<p><img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img/icon_tel.svg" alt="">050-1752-7163</font></p>
+													</div>
+					</div>
+					<p class="r_text">オンラインアシスタントは、BPOテクノロジー株式会社の登録商標または商標です。</p>
+					
+				</div>
+				<div class="footer_logo">
+					<img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img/telework_t_ol_marugo.svg" alt="Telework Pioneer" class="telework">
+					<a href="https://privacymark.jp/" target="_blank" rel="noopener"><img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img/pmark_19001411_en.webp" alt="pmark_en" class="pmark_en"></a>
+				</div>
+				
+			</div>
+			</div>
+	</div>
+	<div class="p-copyright">
+		<div class="l-inner">
+			<p class="u-clearfix">&copy; 2024 BPO Technology Inc. All Rights Reserved.</p>
+		</div>
+	</div>
+	
+	<!-- フローティング -->
+	<div id="js-footer-cta" class="p-footer-cta p-footer-cta--1">
+			<!-- <p><a class="bn_flow" href="https://fujiko-san.com/contact3/"><img decoding="async" class="alignnone size-full wp-image-242 bn_flow_sp" src="https://fujiko-san.com/wp/wp-content/uploads/2018/04/flow0507.png" alt="" width="600" height="80" /></a></p>
+ -->
+					<a class="bn_flow" href="https://fujiko-san.com/consultation/">
+				<img class="alignnone size-full wp-image-242 bn_flow_sp" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img/cta.svg" alt="無料トライアルを試す">
+			</a>
+		
+		<!-- Cookieポリシーの同意 -->
+	<div class="cookie_content hidden">
+        <div>
+            <p>当サイトではお客様により良いサービスを提供するため、Cookieを使用しています。<br />当サイトをご利用いただく際には、当社の<span><a href="https://fujiko-san.com/policy#cookie">クッキーポリシー</a></span>に同意いただいたものとみなします。</p>
+        </div>
+        <button class="btn btn_search_wt ja cookie_btn">
+            <span class="btn color_pink">同意して閉じる</span>
+        </button>
+    </div>
+</div>
+</footer>
+	</div>
+		<script type="text/javascript">
+			function dnd_cf7_generateUUIDv4() {
+				const bytes = new Uint8Array(16);
+				crypto.getRandomValues(bytes);
+				bytes[6] = (bytes[6] & 0x0f) | 0x40; // version 4
+				bytes[8] = (bytes[8] & 0x3f) | 0x80; // variant 10
+				const hex = Array.from(bytes, b => b.toString(16).padStart(2, "0")).join("");
+				return hex.replace(/^(.{8})(.{4})(.{4})(.{4})(.{12})$/, "$1-$2-$3-$4-$5");
+			}
+
+			document.addEventListener("DOMContentLoaded", function() {
+				if ( ! document.cookie.includes("wpcf7_guest_user_id")) {
+					document.cookie = "wpcf7_guest_user_id=" + dnd_cf7_generateUUIDv4() + "; path=/; max-age=" + (12 * 3600) + "; samesite=Lax";
+				}
+			});
+		</script>
+	<script type="text/javascript">
+document.addEventListener( 'wpcf7mailsent', function( event ) {
+    if ( '114' == event.detail.contactFormId ) {
+        location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks/');
+    }
+	else if ( '6673' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_att01/');
+	}
+	else if ( '6788' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_att02/');
+	}
+	else if ( '6770' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_att03/');
+	}
+	else if ( '15853' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_att04/');
+	}
+
+	else if ( '6789' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_int01/');
+	}
+	else if ( '6790' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_int02/');
+	}
+	else if ( '6798' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_sea01/');
+	}
+	else if ( '6799' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_sea02/');
+	}
+	else if ( '6800' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_sea03/');
+	}
+	else if ( '14682' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_sea04/');
+	}
+	else if ( '4138' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_s/');
+	}
+	else if ( '11017' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_s/');
+	}
+	else if ( '11018' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_s/');
+	}
+	else if ( '11019' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_s/');
+	}
+	else if ( '12314' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_s/');
+	}
+	else if ( '10919' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/form/form_2/');
+	}
+	else if ( '6795' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks/');
+	}
+	else if ( '8264' == event.detail.contactFormId ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks/');
+	}
+	else if ( ('9542' == event.detail.contactFormId)||('9543' == event.detail.contactFormId)||('9544' == event.detail.contactFormId)||('9545' == event.detail.contactFormId)||('9546' == event.detail.contactFormId)||('9547' == event.detail.contactFormId)||('9548' == event.detail.contactFormId)||('9549' == event.detail.contactFormId)||('9571' == event.detail.contactFormId)||('14686' == event.detail.contactFormId)  ) {
+		location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_fb_all/');
+	}
+    else if ( '11677' == event.detail.contactFormId ) {
+        location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks/');
+    }
+    else if ( '16664' == event.detail.contactFormId ) {
+        location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_af/');
+    }
+    else if ( '16666' == event.detail.contactFormId ) {
+        location.replace('https://fujikosan.xsrv.jp/wptest_2023/thanks_sea04_af/');
+    }
+
+}, false );
+</script>			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script type="text/javascript" id="codedropz-uploader-js-extra">
+/* <![CDATA[ */
+var dnd_cf7_uploader = {"ajax_url":"https:\/\/fujiko-san.com\/wp\/wp-admin\/admin-ajax.php","ajax_nonce":"b948a3fb07","drag_n_drop_upload":{"tag":"h3","text":"\u3053\u3053\u306b\u30d5\u30a1\u30a4\u30eb\u3092\u30c9\u30e9\u30c3\u30b0 & \u30c9\u30ed\u30c3\u30d7","or_separator":"\u307e\u305f\u306f","browse":"\u30d5\u30a1\u30a4\u30eb\u306e\u53c2\u7167","server_max_error":"\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3055\u308c\u305f\u30d5\u30a1\u30a4\u30eb\u304c\u30b5\u30fc\u30d0\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u30b5\u30a4\u30ba\u306e\u4e0a\u9650\u3092\u8d85\u3048\u3066\u3044\u307e\u3059\u3002","large_file":"\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3055\u308c\u305f\u30d5\u30a1\u30a4\u30eb\u304c\u5927\u304d\u3059\u304e\u307e\u3059\u3002","inavalid_type":"\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3055\u308c\u305f\u30d5\u30a1\u30a4\u30eb\u304c\u8a31\u53ef\u3055\u308c\u305f\u30d5\u30a1\u30a4\u30eb\u5f62\u5f0f\u3067\u306f\u3042\u308a\u307e\u305b\u3093\u3002","max_file_limit":"\u6ce8 : \u4e00\u90e8\u306e\u30d5\u30a1\u30a4\u30eb\u306f\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9\u3055\u308c\u3066\u3044\u307e\u305b\u3093 ( \u30d5\u30a1\u30a4\u30eb\u306e\u4e0a\u9650\u6570\u306f %count% \u4ef6\u307e\u3067 )","required":"\u3053\u306e\u30d5\u30a3\u30fc\u30eb\u30c9\u306f\u5fc5\u9808\u3067\u3059\u3002","delete":{"text":"\u524a\u9664\u4e2d","title":"\u524a\u9664"}},"dnd_text_counter":"\/","disable_btn":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/codedropz-uploader-min.js?ver=1.3.9.3" id="codedropz-uploader-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/jquery.inview.min.js?ver=1.0.1" id="oops-inview-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/parallax.min.js?ver=1.0.1" id="oops-parallax-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/slick.min.js?ver=1.0.1" id="oops-slick-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/jQueryAutoHeight.js?ver=1.0.1" id="oops-auto-height-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/functions.min.js?ver=1.0.1" id="oops-script-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/responsive.min.js?ver=1.0.1" id="oops-responsive-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/scroll.min.js?ver=1.0.1" id="oops-scroll-js"></script>
+<script type="text/javascript" id="oops-cta-js-extra">
+/* <![CDATA[ */
+var tcd_cta = {"admin_url":"https:\/\/fujiko-san.com\/wp\/wp-admin\/admin-ajax.php","ajax_nonce":"ad77989a11"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/admin/js/cta.min.js?ver=1.0.1" id="oops-cta-js"></script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/js/footer-cta.min.js?ver=1.0.1" id="oops-footer-cta-js"></script>
+<script type="text/javascript" id="oops-admin-footer-cta-js-extra">
+/* <![CDATA[ */
+var tcd_footer_cta = {"admin_url":"https:\/\/fujiko-san.com\/wp\/wp-admin\/admin-ajax.php","ajax_nonce":"6b6047692a"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/admin/js/footer-cta.min.js?ver=1.0.1" id="oops-admin-footer-cta-js"></script>
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+ 
+
+
+
+//ご契約プランの親の値を変更したら子の値をリセットここから
+
+const parentRadios = document.querySelectorAll('input[name="check-style"]');
+const childContainerChild = document.querySelector('.riyou_q');
+
+//ラジオボタンとセレクトボックスの初期化関数
+function resetInputs(container) {
+  const childRadios = container.querySelectorAll('input[type="radio"]');
+  childRadios.forEach(childRadio => {
+    childRadio.checked = false; 
+  });
+
+}
+
+parentRadios.forEach(parentRadio => {
+  parentRadio.addEventListener('change', () => {
+    [childContainerChild].forEach(container => {
+      resetInputs(container); 
+    });
+  });
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  const childRadios = document.querySelectorAll('.form_2024_plan_style input[type="radio"]');
+  const timeContainers = document.querySelectorAll('.group_name');
+  childRadios.forEach(childRadio => {
+    childRadio.addEventListener('change', () => {
+      timeContainers.forEach(timeContainer => {
+        const timeRadios = timeContainer.querySelectorAll('input[type="radio"]');
+        timeRadios.forEach(timeRadio => {
+          timeRadio.checked = false; // 選択解除
+        });
+      });
+    });
+  });
+});
+
+document.addEventListener('input', (event) => {
+  if (event.target.name === "check-r") { // `check-r` の変更を監視
+    console.log("check-r changed!"); // デバッグ用
+
+    document.querySelectorAll('input[name="riyou_q"]').forEach(input => {
+      if (input.type === 'radio' || input.type === 'checkbox') {
+        input.checked = false;
+      } else {
+        input.value = '';
+      }
+    });
+  }
+});
+
+  
+//ご契約プランの親の値を変更したら子の値をリセットここまで
+
+</script>
+<!-- end Simple Custom CSS and JS -->
+<!-- start Simple Custom CSS and JS -->
+<script type="text/javascript">
+ 
+
+//キックオフミーティングの項目で、1つめのselectboxで選ばれたoptionを2つめのselectboxでは非表示
+
+
+const select1 = document.getElementById('kickoffselect01');
+const select2 = document.getElementById('kickoffselect02');
+
+    // 共通関数: 指定されたセレクトボックスのオプションを更新
+    function updateOptions(sourceSelect, targetSelect) {
+      const selectedValue = sourceSelect.value;
+
+      // ターゲットセレクトのオプションをすべて確認
+      Array.from(targetSelect.options).forEach(option => {
+        if (option.value === selectedValue) {
+          // 他方のセレクトで選択された項目を非表示にする
+          option.style.display = 'none';
+        } else {
+          // 他方のセレクトで未選択の項目を表示する
+          option.style.display = '';
+        }
+      });
+    }
+
+    // セレクト1が変更されたときにセレクト2のオプションを更新
+    select1.addEventListener('change', () => {
+      updateOptions(select1, select2);
+    });
+
+    // セレクト2が変更されたときにセレクト1のオプションを更新
+    select2.addEventListener('change', () => {
+      updateOptions(select2, select1);
+    });
+
+    // 初期化（ページ読み込み時に両セレクトを同期）
+    updateOptions(select1, select2);
+    updateOptions(select2, select1);
+
+
+//select制御ここまで
+
+//ご契約プランの親の値を変更したら子の値をリセットここから
+
+const parentRadios = document.querySelectorAll('input[name="check-yuki"], input[name="radio-plan"]');
+const childContainerChild = document.querySelector('.form_2024_plan_plan_child');
+const childContainerTime = document.querySelector('.form_2024_plan_time');
+
+//ラジオボタンとセレクトボックスの初期化関数
+function resetInputs(container) {
+  const childRadios = container.querySelectorAll('input[type="radio"]');
+  childRadios.forEach(childRadio => {
+    childRadio.checked = false; 
+  });
+
+  const selectBoxes = container.querySelectorAll('select');
+  selectBoxes.forEach(selectBox => {
+    selectBox.selectedIndex = 0; 
+  });
+}
+
+parentRadios.forEach(parentRadio => {
+  parentRadio.addEventListener('change', () => {
+    [childContainerChild, childContainerTime].forEach(container => {
+      resetInputs(container); 
+    });
+  });
+});
+
+if (childContainerChild) {
+  childContainerChild.addEventListener('change', () => {
+    resetInputs(childContainerTime); //
+  });
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const parentsYuki = document.querySelectorAll('.check-yuki input[type="radio"]');
+  const childYuki = document.querySelectorAll('.form_2024_plan_time');
+  const basePlanLabels = document.querySelectorAll('#base_plan label');
+
+  childYuki.forEach(childRadio => {
+    childRadio.addEventListener('change', () => {
+      childYuki.forEach(timeContainer => {
+        const timeRadios = timeContainer.querySelectorAll('input[type="radio"]');
+        timeRadios.forEach(timeRadio => {
+          timeRadio.checked = false; // 選択解除
+        });
+      });
+      basePlanLabels.forEach(label => {
+        label.classList.remove('selected');
+      });
+    });
+  });
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+  const childRadios = document.querySelectorAll('.form_2024_plan_plan_child input[type="radio"]');
+  const timeContainers = document.querySelectorAll('.form_2024_plan_time');
+  childRadios.forEach(childRadio => {
+    childRadio.addEventListener('change', () => {
+      timeContainers.forEach(timeContainer => {
+        const timeRadios = timeContainer.querySelectorAll('input[type="radio"]');
+        timeRadios.forEach(timeRadio => {
+          timeRadio.checked = false; // 選択解除
+        });
+      });
+    });
+  });
+});
+  
+//ご契約プランの親の値を変更したら子の値をリセットここまで
+
+
+//有期契約の場合繰越プランを非表示ここから
+document.addEventListener('DOMContentLoaded', () => {
+    const yukiRadios = document.querySelectorAll('input[name="check-yuki"]');
+    const basePlan = document.getElementById('base_plan');
+
+    yukiRadios.forEach(radio => {
+      radio.addEventListener('change', () => {
+        if (radio.value === "有期契約を申し込む" && radio.checked) {
+          const lastItem = basePlan.querySelector('.wpcf7-list-item:last-child');
+          if (lastItem) {
+            lastItem.style.position = 'absolute';
+            lastItem.style.left = '-50vw';
+          }
+        } else {
+          const lastItem = basePlan.querySelector('.wpcf7-list-item:last-child');
+          if (lastItem) {
+            lastItem.style.position = 'relative';
+            lastItem.style.left = '0';
+          }
+        }
+      });
+    });
+  });
+  //有期契約の場合繰越プランを非表示ここまで</script>
+<!-- end Simple Custom CSS and JS -->
+
+<script type="text/javascript" src='//fujiko-san.com/wp/wp-content/uploads/custom-css-js/15609.js?v=4016'></script>
+			<script type="text/javascript">
+				jQuery.noConflict();
+				(function( $ ) {
+					$(function() {
+						// More code using $ as alias to jQuery
+						jQuery("area[href*=\\#],a[href*=\\#]:not([href=\\#]):not([href^='\\#tab']):not([href^='\\#quicktab']):not([href^='\\#pane'])").click(function() {
+							if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+								var target = $(this.hash);
+								target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+								if (target.length) {
+								$('html,body').animate({
+								scrollTop: target.offset().top - 20  
+								},900 ,'');
+								return false;
+								}
+							}
+						});
+					});
+				})(jQuery);	
+			</script>				
+				<script>
+	jQuery(function($) {
+
+		// ブログコンテンツの設定
+		if ($("#js-footer-blog__list").length) {
+			$("#js-footer-blog__list").slick({
+				arrows: false,
+				autoplay: true,
+				dots: true,
+				infinite: true,
+				slidesToShow: 1,
+				speed: 300			});
+		}
+
+						$(window).load(function() {
+					$('#site_loader_animation').delay(400).fadeOut(400);
+					$('#site_loader_overlay').delay(400).fadeOut(400);
+					$('#site-wrap').css('display', 'block');
+				});
+				$(function() {
+					setTimeout(function() {
+						$('#site_loader_animation').delay(400).fadeOut(400);
+						$('#site_loader_overlay').delay(400).fadeOut(400);
+						$('#site-wrap').css('display', 'block');
+					}, 1000);
+				});
+				});
+	
+	jQuery(window).load(function() {
+			});
+
+
+
+
+	/*--------------------------------
+	footer アコーディオン
+	--------------------------------*/
+	jQuery('.accordion_title_span').on('click', function() {
+		var findElm = jQuery(this).parents('.accordion_title').next('.box');
+		jQuery(findElm).slideToggle(); //アコーディオンの上下動作
+
+		if (jQuery(this).hasClass('close')) {
+			jQuery(this).removeClass('close');
+			jQuery(this).parents('.accordion_title').removeClass('close');
+		} else {
+			jQuery(this).addClass('close');
+			jQuery(this).parents('.accordion_title').addClass('close');
+		}
+	});
+</script>
+<!--  -->
+
+<!-- 220715 TOPアコーディオンメニュー用 -->
+<script>
+	const menu = document.querySelectorAll(".js-menu");
+
+	function toggle() {
+
+		const content = this.nextElementSibling;
+		this.classList.toggle("is-active");
+		content.classList.toggle("is-open");
+	}
+
+	for (let i = 0; i < menu.length; i++) {
+		menu[i].addEventListener("click", toggle);
+	}
+</script>
+</div>
+<script>
+
+
+jQuery(function($) {
+
+	let slidesToShowNum = 20; //slidesToShowに設定したい値
+	/* slidesToShowより投稿が少ない場合の処理を記述 */
+	let top_item = $('#case_list_top .case_item').length; //スライド内の画像の個数を取得
+	if (top_item <= slidesToShowNum) {
+		for (i = 0; i <= slidesToShowNum + 1 - top_item; i++) { //足りていない要素数分、後ろに複製
+		$('#case_list_top .case_item:nth-child(' + i + ')').clone().appendTo('#case_list_top');
+		}
+	}
+
+	let bottom_item = $('#case_list_bottom .case_item').length; //スライド内の画像の個数を取得
+	if (bottom_item <= slidesToShowNum) {
+		for (i = 0; i <= slidesToShowNum + 1 - bottom_item; i++) { //足りていない要素数分、後ろに複製
+		$('#case_list_bottom .case_item:nth-child(' + i + ')').clone().appendTo('#case_list_bottom');
+		}
+
+	}
+
+
+	$("#case_list_top").slick({
+		arrows: false,
+		autoplay: true,
+		infinite: true,
+		slidesToShow: 8,
+		autoplaySpeed: 0,
+		cssEase: 'linear',
+		speed: 10000,
+		pauseOnFocus: false,
+		pauseOnHover: false,
+		pauseOnDotsHover: false,
+		variableWidth: true,
+	});
+	$("#case_list_bottom").slick({
+		arrows: false,
+		autoplay: true,
+		infinite: true,
+		slidesToShow: 8,
+		autoplaySpeed: 0,
+		cssEase: 'linear',
+		speed: 10000,
+		pauseOnFocus: false,
+		pauseOnHover: false,
+		pauseOnDotsHover: false,
+		variableWidth: true,
+		rtl: true,
+	});
+});
+
+</script>
+
+</body>
+
+</html>

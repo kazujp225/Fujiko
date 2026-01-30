@@ -1,0 +1,161 @@
+@charset "UTF-8";
+
+/* ==========================================================================
+   Animation & Components (アニメーション・コンポーネント装飾)
+   ========================================================================== */
+
+/* Transitions */
+a,
+.c-btn,
+.c-link-btn,
+.p-news__link,
+.p-support__card img {
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    opacity: 0.7;
+}
+
+/* Button Styles */
+.c-btn {
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 15px;
+}
+
+.c-btn--sub {
+    background-color: var(--c-blue-dark);
+    color: #fff;
+    border: 2px solid var(--c-blue-dark);
+}
+
+.c-btn--sub:hover {
+    background-color: #ffffff;
+    color: var(--c-blue-dark);
+}
+
+.c-btn--main {
+    background-color: var(--c-yellow);
+    color: var(--c-text);
+    border: 2px solid var(--c-yellow);
+    position: relative;
+}
+
+.c-btn--main:hover {
+    background-color: #ffffff;
+}
+
+/* Arrow icon for main button */
+.c-btn--main::after {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-left: 10px;
+    border-right: 2px solid var(--c-text);
+    border-bottom: 2px solid var(--c-text);
+    transform: rotate(-45deg);
+}
+
+/* Hero CTA Button */
+.c-cta-btn {
+    display: inline-block;
+    background: var(--c-primary);
+    color: #fff;
+    padding: 15px 60px;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    box-shadow: 0 5px 15px rgba(230, 0, 18, 0.4);
+}
+
+.c-cta-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(230, 0, 18, 0.6);
+    opacity: 1;
+    /* override default opacity hover */
+}
+
+
+/* Common Link Button */
+.c-link-btn {
+    display: inline-block;
+    border: 1px solid var(--c-text);
+    padding: 12px 40px;
+    margin: 10px;
+    min-width: 200px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.c-link-btn--contact {
+    background: var(--c-primary);
+    border-color: var(--c-primary);
+    color: #fff;
+}
+
+.c-link-btn:hover {
+    opacity: 0.8;
+}
+
+/* Feature Card Effects */
+.p-features__item {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.p-features__num {
+    display: inline-block;
+    background: var(--c-primary);
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    position: absolute;
+    top: -15px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Awards Effects */
+.p-awards__item {
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+}
+
+/* News Link Hover */
+.p-news__link:hover {
+    color: var(--c-primary);
+    text-decoration: underline;
+    opacity: 1;
+}
+
+/* Support Card Hover */
+.p-support__card:hover img {
+    transform: translateY(-5px);
+}
+
+/* Table Highlighting */
+.p-plan__th {
+    background-color: #333;
+    color: #fff;
+}
+
+.p-plan__th--rec {
+    background-color: var(--c-primary);
+    position: relative;
+    padding-bottom: 25px;
+}
+
+.p-plan__th--rec::after {
+    content: "RECOMMENDED";
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    width: 100%;
+    font-size: 0.7rem;
+    opacity: 0.8;
+}

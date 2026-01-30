@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+/* ==========================================================================
+   Typography (文字)
+   ========================================================================== */
+body {
+    font-family: "Noto Sans JP", "游ゴシック", YuGothic, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    color: var(--c-text);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* English Fonts */
+.en-font,
+.montserrat,
+.c-section-header__en,
+.c-link-btn,
+.c-cta-btn {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Utility Text Classes */
+.u-text-center {
+    text-align: center;
+}
+
+.u-fw-bold {
+    font-weight: bold;
+}
+
+.u-text-red {
+    color: var(--c-primary);
+}
+
+.u-text-blue {
+    color: var(--c-blue-dark);
+}

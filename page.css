@@ -1,0 +1,500 @@
+/* ==========================================================================
+   Sub Page Styles
+   ========================================================================== */
+
+/* Page Hero */
+.page-hero {
+    background: linear-gradient(135deg, #0066b3 0%, #3399cc 100%);
+    padding: 120px 0 60px;
+    text-align: center;
+    color: #fff;
+}
+
+.page-hero__en {
+    font-family: var(--font-en);
+    font-size: 14px;
+    letter-spacing: 0.2em;
+    margin-bottom: 10px;
+    opacity: 0.8;
+}
+
+.page-hero__title {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+/* Breadcrumb */
+.breadcrumb {
+    background: #f5f5f5;
+    padding: 15px 0;
+    font-size: 13px;
+}
+
+.breadcrumb a {
+    color: #3498db;
+}
+
+.breadcrumb span {
+    color: #666;
+    margin: 0 8px;
+}
+
+/* Page Intro */
+.page-intro {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.page-intro__title {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.page-intro__text {
+    font-size: 15px;
+    line-height: 2;
+    color: #555;
+}
+
+/* Service Features */
+.service-features {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+.service-feature {
+    background: #fff;
+    border-radius: 10px;
+    padding: 30px 20px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.service-feature__icon {
+    width: 120px;
+    height: 120px;
+    margin: 0 auto 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.service-feature__icon img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.service-feature__title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.service-feature__text {
+    font-size: 13px;
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Business Grid */
+.business-grid {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 15px;
+}
+
+.business-item {
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px 10px;
+    text-align: center;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+}
+
+.business-item img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.business-item span {
+    display: block;
+    font-size: 12px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* CTA Section */
+.section--cta {
+    background: linear-gradient(135deg, #0066b3 0%, #3399cc 100%);
+    color: #fff;
+    padding: 60px 0;
+}
+
+.cta-title {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+.cta-text {
+    margin-bottom: 30px;
+    opacity: 0.9;
+}
+
+.cta-btns {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.c-cta-btn--outline {
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+/* Security Page */
+.security-points {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.security-point {
+    background: #fff;
+    border-radius: 10px;
+    padding: 40px 25px;
+    text-align: center;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.security-point__icon {
+    width: 80px;
+    height: 80px;
+    background: #e8f4fc;
+    border-radius: 50%;
+    margin: 0 auto 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+}
+
+.security-point__title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.security-point__text {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.8;
+}
+
+/* Terms Page */
+.terms-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.terms-content h2 {
+    font-size: 1.3rem;
+    color: #333;
+    margin: 40px 0 15px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #3498db;
+}
+
+.terms-content p {
+    font-size: 14px;
+    line-height: 2;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.terms-content ul {
+    margin: 15px 0;
+    padding-left: 20px;
+}
+
+.terms-content li {
+    font-size: 14px;
+    line-height: 2;
+    color: #555;
+    list-style: disc;
+}
+
+/* Price Table */
+.price-table-wrapper {
+    overflow-x: auto;
+    margin-top: 40px;
+}
+
+.price-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    min-width: 700px;
+}
+
+.price-table th,
+.price-table td {
+    padding: 20px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+.price-table thead th {
+    background: #3498db;
+    color: #fff;
+    font-weight: bold;
+}
+
+.price-table thead th.highlight {
+    background: #e74c3c;
+}
+
+.price-table tbody th {
+    background: #f5f9fc;
+    font-weight: normal;
+}
+
+.price-table .price {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3498db;
+}
+
+.price-table .price small {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+/* Case Studies */
+.case-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.case-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.case-card__img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.case-card__body {
+    padding: 25px;
+}
+
+.case-card__company {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.case-card__title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+.case-card__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.case-card__tag {
+    background: #000044;
+    color: #fff;
+    padding: 5px 12px;
+    border-radius: 20px;
+    font-size: 11px;
+}
+
+/* FAQ Page */
+.faq-list {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Library Page */
+.library-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.library-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+    transition: transform 0.3s;
+}
+
+.library-card:hover {
+    transform: translateY(-5px);
+}
+
+.library-card__img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    background: #e8f4fc;
+}
+
+.library-card__body {
+    padding: 20px;
+}
+
+.library-card__title {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.library-card__btn {
+    display: inline-block;
+    background: #3498db;
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+/* Blog Page */
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.blog-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.blog-card__img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.blog-card__body {
+    padding: 20px;
+}
+
+.blog-card__date {
+    font-size: 12px;
+    color: #3498db;
+    font-family: var(--font-en);
+    margin-bottom: 10px;
+}
+
+.blog-card__title {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Seminar Page */
+.seminar-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.seminar-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+.seminar-card__img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+}
+
+.seminar-card__body {
+    padding: 20px;
+}
+
+.seminar-card__date {
+    display: inline-block;
+    background: #e74c3c;
+    color: #fff;
+    padding: 5px 12px;
+    border-radius: 3px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.seminar-card__title {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .service-features {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .business-grid {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .page-hero {
+        padding: 100px 0 40px;
+    }
+
+    .page-hero__title {
+        font-size: 1.8rem;
+    }
+
+    .service-features,
+    .security-points,
+    .case-grid,
+    .library-grid,
+    .blog-grid,
+    .seminar-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .business-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .cta-btns {
+        flex-direction: column;
+        align-items: center;
+    }
+}

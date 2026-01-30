@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+/* ==========================================================================
+   Colors & Variables (色・変数)
+   ========================================================================== */
+:root {
+    /* Brand Colors */
+    --c-primary: #e60012;
+    /* アクセント赤 */
+    --c-blue-dark: #386BB3;
+    /* ボタン・ヘッダー青 */
+    --c-blue-light: #54B6D4;
+    /* 水色テキスト */
+    --c-yellow: #EEDC43;
+    /* ボタン背景黄 */
+    --c-navy: #01025E;
+    /* フッター背景 */
+
+    /* Text Colors */
+    --c-text: #333333;
+    /* 基本テキスト */
+    --c-text-gray: #565656;
+    /* 薄いテキスト */
+
+    /* Backgrounds */
+    --bg-main: #FFFFFF;
+    --bg-light: #FFFFCC;
+    /* オリジナルCSS由来の背景色 */
+    --bg-gray: #f7f7f7;
+
+    /* Borders & Shadows */
+    --c-border: #dddddd;
+    --shadow-base: 0px 0px 10px rgba(56, 107, 179, 0.25);
+}
