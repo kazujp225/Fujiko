@@ -15,199 +15,167 @@
 
 <body>
 
+    <!-- ロゴ（左上固定） -->
+    <a href="spawn.html" class="logo-fixed">
+        <img src="img/logo_header.png" alt="トゥントゥンさん" class="logo-fixed-img">
+    </a>
+
     <!-- Header -->
-    <header class="header">
-        <div class="header__inner">
-            <h1 class="header__logo">
-                <a href="#">
-                    <div class="logo-wrapper">
-                        <!-- Animated Icon Overlay -->
-                        <div class="logo-anim">
-                            <img src="img/logo_anim_1.png" class="logo-anim__img logo-anim__img--1" alt="">
-                            <img src="img/logo_anim_2.png" class="logo-anim__img logo-anim__img--2" alt="">
-                            <img src="img/logo_anim_3.png" class="logo-anim__img logo-anim__img--3" alt="">
-                        </div>
-                        <!-- Original Logo (Base) -->
-                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/common2025/img/logo.png"
-                            alt="フジ子さん" class="logo-base">
-                    </div>
-                </a>
-            </h1>
-            <div class="header__right">
-                <div class="header__btns">
-                    <a href="#" class="c-btn c-btn--header-blue">ご相談予約 <span class="btn-arrow">→</span></a>
-                    <a href="#" class="c-btn c-btn--header-yellow">お問い合わせ <span class="btn-arrow">→</span></a>
+    <header class="header" id="header">
+        <!-- 上段：ボタン -->
+        <div class="header__top">
+            <div class="header__top-inner">
+                <div class="header__buttons">
+                    <a href="consultation.html" class="header__btn header__btn--blue">ご相談予約 <span class="btn-arrow">→</span></a>
+                    <a href="#contact" class="header__btn header__btn--yellow">お問い合わせ <span class="btn-arrow">→</span></a>
                 </div>
-                <nav class="nav">
+            </div>
+        </div>
+        <!-- 下段：ナビゲーション -->
+        <div class="header__bottom">
+            <div class="header__bottom-inner">
+                <nav class="header__nav">
                     <ul class="nav__list">
-                        <li class="nav__item has-dropdown">
-                            <a href="service.html">「フジ子さん」とは</a>
-                            <ul class="nav__sub">
-                                <li><a href="service.html">サービス概要</a></li>
-                                <li><a href="security.html">セキュリティについて</a></li>
-                                <li><a href="terms.html">利用規約</a></li>
-                            </ul>
-                        </li>
+                        <li class="nav__item"><a href="service.html">「フジ子さん」とは</a></li>
                         <li class="nav__item"><a href="price.html">料金プラン</a></li>
-                        <li class="nav__item has-dropdown">
-                            <a href="case.html">導入事例</a>
-                            <ul class="nav__sub">
-                                <li><a href="case.html">お客様の声</a></li>
-                                <li><a href="faq.html">よくあるご質問</a></li>
-                            </ul>
-                        </li>
-                        <li class="nav__item has-dropdown">
-                            <a href="library.html">お役立ち情報</a>
-                            <ul class="nav__sub">
-                                <li><a href="library.html">お役立ち資料</a></li>
-                                <li><a href="blog.html">ブログ</a></li>
-                            </ul>
-                        </li>
+                        <li class="nav__item"><a href="case.html">導入事例</a></li>
+                        <li class="nav__item"><a href="library.html">お役立ち情報</a></li>
                         <li class="nav__item"><a href="seminar.html">セミナー・キャンペーン</a></li>
-                        <li class="nav__item"><a href="#" target="_blank" rel="noopener">採用情報<span
-                                    style="font-size: 10px;">↗</span></a></li>
-                        <li class="nav__item"><a href="#" target="_blank" rel="noopener">パートナー<span
-                                    style="font-size: 10px;">↗</span></a></li>
+                        <li class="nav__item"><a href="#" target="_blank" rel="noopener">採用情報 ↗</a></li>
+                        <li class="nav__item"><a href="#" target="_blank" rel="noopener">パートナー ↗</a></li>
                     </ul>
                 </nav>
             </div>
         </div>
     </header>
 
-    <main>
-        <!-- Hero: 青グラデーション背景＋白文字 -->
-        <section class="hero-blue">
-            <div class="hero-blue__inner container">
-                <div class="hero-blue__left">
-                    <h2 class="hero-blue__title">
-                        <span class="hero-blue__text-bg">どんな業務も</span><br>
-                        <span class="hero-blue__text-bg">優秀なスタッフに頼み放題！</span><br>
-                        <span class="hero-blue__text-bg">低コストで人手不足を解決！</span>
-                    </h2>
-                    <p class="hero-blue__subtitle">オンラインアシスタント® フジ子さん</p>
+    <!-- Hero Section -->
+    <section class="hero-blue">
+        <div class="hero-blue__inner">
+            <div class="hero-blue__left">
+                <h2 class="hero-blue__title">
+                    <span class="hero-blue__text-bg">どんな業務も</span><br>
+                    <span class="hero-blue__text-bg">優秀なスタッフに頼み放題！</span><br>
+                    <span class="hero-blue__text-bg">低コストで人手不足を解決！</span>
+                </h2>
+                <p class="hero-blue__subtitle">オンラインアシスタント® フジ子さん</p>
 
-                    <!-- Awards / Laurels -->
-                    <div class="hero-blue__awards">
-                        <div class="hero-blue__award-item">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img_main02.png"
-                                alt="官公庁導入">
-                        </div>
-                        <div class="hero-blue__award-item">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img_main03.png"
-                                alt="2000社以上">
-                        </div>
-                        <div class="hero-blue__award-item">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img_main04.png"
-                                alt="30日間返金保証">
-                        </div>
+                <div class="hero-blue__awards">
+                    <div class="hero-blue__award-item">
+                        <img src="img/badge_gov.png" alt="官公庁導入">
                     </div>
-
-                    <a href="#" class="c-cta-btn c-cta-btn--hero">CONTACT</a>
+                    <div class="hero-blue__award-item">
+                        <img src="img/badge_2000.png" alt="2000社以上">
+                    </div>
+                    <div class="hero-blue__award-item">
+                        <img src="img/badge_30days.png" alt="30日間返金保証">
+                    </div>
                 </div>
 
-                <div class="hero-blue__right">
-                    <!-- Right Illustration (Worker/Office) -->
-                    <!-- Using placeholder img_main.png or similar large illustration from the site assets -->
-                    <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img_main.png"
-                        alt="Office Illustration" class="hero-blue__illust">
-                </div>
+                <a href="#contact" class="c-cta-btn c-cta-btn--hero">CONTACT</a>
             </div>
 
-            <!-- Bottom Right Banner -->
-            <div class="hero-blue__banner">
-                <img src="img/banner_10th_anniversary.png" alt="10周年特設サイト">
+            <div class="hero-blue__right">
+                <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img_main.png"
+                    alt="Office Illustration" class="hero-blue__illust">
             </div>
-        </section>
+        </div>
 
-        <!-- News: サイドバイサイドレイアウト (画像参照) -->
-        <section class="section news-section">
-            <div class="container news-section__inner">
-                <div class="news-section__header">
-                    <h3 class="news-section__title-jp">お知らせ</h3>
-                    <span class="news-section__title-en">News</span>
-                </div>
-                <ul class="news-list">
-                    <li class="news-list__item">
-                        <time class="news-list__date">2026/1/14</time>
-                        <a href="#" class="news-list__link">カオナビ主催の「FACE to FES’26」に出展</a>
-                    </li>
-                    <li class="news-list__item">
-                        <time class="news-list__date">2025/12/2</time>
-                        <a href="#" class="news-list__link">「ISO 27001」取得のお知らせ</a>
-                    </li>
-                    <li class="news-list__item">
-                        <time class="news-list__date">2025/11/20</time>
-                        <a href="#" class="news-list__link">10周年記念紹介キャンペーン開始いたしました</a>
-                    </li>
-                    <li class="news-list__item">
-                        <time class="news-list__date">2025/11/19</time>
-                        <a href="#"
-                            class="news-list__link">【ウェビナー】1/22成長するEC企業が“やっていること・やめたこと”～人とシステム、両面から進めるバックオフィス改革～申込募集中</a>
-                    </li>
-                </ul>
+        <!-- 右下バナー -->
+        <a href="#" class="hero-blue__banner">
+            <img src="img/banner_10th_anniversary.jpg" alt="10周年記念">
+        </a>
+    </section>
+
+    <!-- News: サイドバイサイドレイアウト (画像参照) -->
+    <section class="section news-section">
+        <div class="container news-section__inner">
+            <div class="news-section__header">
+                <h3 class="news-section__title-jp">お知らせ</h3>
+                <span class="news-section__title-en">News</span>
             </div>
-        </section>
+            <ul class="news-list">
+                <li class="news-list__item">
+                    <time class="news-list__date">2026/1/14</time>
+                    <a href="#" class="news-list__link">カオナビ主催の「FACE to FES’26」に出展</a>
+                </li>
+                <li class="news-list__item">
+                    <time class="news-list__date">2025/12/2</time>
+                    <a href="#" class="news-list__link">「ISO 27001」取得のお知らせ</a>
+                </li>
+                <li class="news-list__item">
+                    <time class="news-list__date">2025/11/20</time>
+                    <a href="#" class="news-list__link">10周年記念紹介キャンペーン開始いたしました</a>
+                </li>
+                <li class="news-list__item">
+                    <time class="news-list__date">2025/11/19</time>
+                    <a href="#"
+                        class="news-list__link">【ウェビナー】1/22成長するEC企業が“やっていること・やめたこと”～人とシステム、両面から進めるバックオフィス改革～申込募集中</a>
+                </li>
+            </ul>
+        </div>
+    </section>
 
-        <!-- ABOUT Section -->
-        <section class="section p-about">
-            <div class="container">
-                <div class="section-title section-title--center">
-                    <span class="section-title__en" style="color: #54B6D4">ABOUT “FUJIKO-SAN”</span>
-                    <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">「フジ子さん」とは</h3>
+    <!-- ABOUT Section -->
+    <section class="section p-about">
+        <div class="container">
+            <div class="section-title section-title--center">
+                <span class="section-title__en" style="color: #54B6D4">ABOUT “FUJIKO-SAN”</span>
+                <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">「フジ子さん」とは</h3>
+            </div>
+            <div class="p-about__desc">
+                <p>インターネットを通じて、企業のバックオフィス業務などをサポートするサービス。</p>
+                <p>一般的なアシスタント業務から英語翻訳やデザインまで、<br>必要なときに必要なだけ仕事を頼めるサービスが「フジ子さん」です。</p>
+            </div>
+
+            <div class="p-about__grid">
+                <!-- Feature 1 -->
+                <div class="card p-about__card">
+                    <div class="p-about__ribbon">特徴1</div>
+                    <div class="p-about__img">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img01.png"
+                            alt="月10時間から依頼可能">
+                    </div>
+                    <h4 class="p-about__card-title">月10時間から依頼可能</h4>
                 </div>
-                <div class="p-about__desc">
-                    <p>インターネットを通じて、企業のバックオフィス業務などをサポートするサービス。</p>
-                    <p>一般的なアシスタント業務から英語翻訳やデザインまで、<br>必要なときに必要なだけ仕事を頼めるサービスが「フジ子さん」です。</p>
+
+                <!-- Feature 2 -->
+                <div class="card p-about__card">
+                    <div class="p-about__ribbon">特徴2</div>
+                    <div class="p-about__img">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img02.png"
+                            alt="最短1ヶ月から契約可能">
+                    </div>
+                    <h4 class="p-about__card-title">最短1ヶ月から契約可能</h4>
+                    <p class="p-about__card-text">変更も解約も期間の縛りなし</p>
                 </div>
 
-                <div class="p-about__grid">
-                    <!-- Feature 1 -->
-                    <div class="card p-about__card">
-                        <div class="p-about__ribbon">特徴1</div>
-                        <div class="p-about__img">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img01.png"
-                                alt="月10時間から依頼可能">
-                        </div>
-                        <h4 class="p-about__card-title">月10時間から依頼可能</h4>
+                <!-- Feature 3 -->
+                <div class="card p-about__card">
+                    <div class="p-about__ribbon">特徴3</div>
+                    <div class="p-about__img">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img03.png"
+                            alt="幅広い業務を１契約内で対応可能">
                     </div>
+                    <h4 class="p-about__card-title">幅広い業務を１契約内で<br>対応可能</h4>
+                </div>
 
-                    <!-- Feature 2 -->
-                    <div class="card p-about__card">
-                        <div class="p-about__ribbon">特徴2</div>
-                        <div class="p-about__img">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img02.png"
-                                alt="最短1ヶ月から契約可能">
-                        </div>
-                        <h4 class="p-about__card-title">最短1ヶ月から契約可能</h4>
-                        <p class="p-about__card-text">変更も解約も期間の縛りなし</p>
+                <!-- Feature 4 -->
+                <div class="card p-about__card">
+                    <div class="p-about__ribbon">特徴4</div>
+                    <div class="p-about__img">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img04.png"
+                            alt="人材採用のコストダウン">
                     </div>
-
-                    <!-- Feature 3 -->
-                    <div class="card p-about__card">
-                        <div class="p-about__ribbon">特徴3</div>
-                        <div class="p-about__img">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img03.png"
-                                alt="幅広い業務を１契約内で対応可能">
-                        </div>
-                        <h4 class="p-about__card-title">幅広い業務を１契約内で<br>対応可能</h4>
-                    </div>
-
-                    <!-- Feature 4 -->
-                    <div class="card p-about__card">
-                        <div class="p-about__ribbon">特徴4</div>
-                        <div class="p-about__img">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img04.png"
-                                alt="人材採用のコストダウン">
-                        </div>
-                        <h4 class="p-about__card-title">人材採用のコストダウン</h4>
-                    </div>
+                    <h4 class="p-about__card-title">人材採用のコストダウン</h4>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- Award Section (New) -->
-        <section class="section section--award p-award">
-            <!-- (Content intentionally omitted in replacement to focus on About/Business target, but this tool requires contiguous block if strictly replacing. 
+    <!-- Award Section (New) -->
+    <section class="section section--award p-award">
+        <!-- (Content intentionally omitted in replacement to focus on About/Business target, but this tool requires contiguous block if strictly replacing. 
                  Wait, I should use multi_replace for non-contiguous or include the middle.
                  The space between About and Business is large (About -> Award -> Business).
                  I will DO THIS IN TWO CHUNKS using multi_replace_file_content or just include the gap if it is small enough.
@@ -217,1362 +185,1357 @@
                  I will use multi_replace_file_content.
             -->
 
+        </div>
+    </section>
+
+    <!-- Award Section (New) -->
+    <section class="section section--award p-award">
+        <div class="container">
+            <div class="section-title section-title--center">
+                <span class="section-title__en" style="color: #54B6D4">AWARD</span>
+                <p class="section-title__desc" style="font-weight: bold; margin-top: 10px;">
+                    「フジ子さん」はIT活用の分野で、高い評価を受けています。</p>
             </div>
-        </section>
 
-        <!-- Award Section (New) -->
-        <section class="section section--award p-award">
-            <div class="container">
-                <div class="section-title section-title--center">
-                    <span class="section-title__en" style="color: #54B6D4">AWARD</span>
-                    <p class="section-title__desc" style="font-weight: bold; margin-top: 10px;">
-                        「フジ子さん」はIT活用の分野で、高い評価を受けています。</p>
-                </div>
-
-                <div class="p-award__grid">
-                    <!-- Card 1 -->
-                    <div class="p-award__card">
-                        <div class="p-award__card-inner">
-                            <div class="p-award__media">
-                                <div class="p-award__img">
-                                    <img src="img/award_itreview.png" alt="ITreview 4.5">
-                                </div>
-                                <div class="p-award__body">
-                                    <h4 class="p-award__title">ITreview 顧客満足度4.5</h4>
-                                    <p class="p-award__text">ユーザーレビューで満足度・認知度ともに高評価を獲得</p>
-                                </div>
+            <div class="p-award__grid">
+                <!-- Card 1 -->
+                <div class="p-award__card">
+                    <div class="p-award__card-inner">
+                        <div class="p-award__media">
+                            <div class="p-award__img">
+                                <img src="img/award_itreview.png" alt="ITreview 4.5">
                             </div>
-                        </div>
-                    </div>
-
-                    <!-- Card 2 -->
-                    <div class="p-award__card">
-                        <div class="p-award__card-inner">
-                            <div class="p-award__media">
-                                <div class="p-award__img">
-                                    <img src="img/award_telework.png" alt="Telework Pioneer">
-                                </div>
-                                <div class="p-award__body">
-                                    <h4 class="p-award__title">総務省 テレワーク先駆者百選</h4>
-                                    <p class="p-award__text">令和４年度 受賞</p>
-                                </div>
+                            <div class="p-award__body">
+                                <h4 class="p-award__title">ITreview 顧客満足度4.5</h4>
+                                <p class="p-award__text">ユーザーレビューで満足度・認知度ともに高評価を獲得</p>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="p-award__actions">
-                    <a href="#" class="c-btn-award c-btn-award--black">VIEW MORE <span class="arrow">→</span></a>
-                    <a href="#" class="c-btn-award c-btn-award--yellow">CONTACT <span class="arrow">→</span></a>
+                <!-- Card 2 -->
+                <div class="p-award__card">
+                    <div class="p-award__card-inner">
+                        <div class="p-award__media">
+                            <div class="p-award__img">
+                                <img src="img/award_telework.png" alt="Telework Pioneer">
+                            </div>
+                            <div class="p-award__body">
+                                <h4 class="p-award__title">総務省 テレワーク先駆者百選</h4>
+                                <p class="p-award__text">令和４年度 受賞</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
 
-        <!-- Business: 内容例 -->
-        <section class="section section--business p-business">
-            <div class="container">
-                <div class="section-title section-title--center">
-                    <span class="section-title__en" style="color: #54B6D4">BUSINESS CONTENT</span>
-                    <h3 class="section-title__jp" style="color: #000044; font-size: 2rem;">オンラインアシスタント® の業務内容例</h3>
+            <div class="p-award__actions">
+                <a href="#" class="c-btn-award c-btn-award--black">VIEW MORE <span class="arrow">→</span></a>
+                <a href="#" class="c-btn-award c-btn-award--yellow">CONTACT <span class="arrow">→</span></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Business: 内容例 -->
+    <section class="section section--business p-business">
+        <div class="container">
+            <div class="section-title section-title--center">
+                <span class="section-title__en" style="color: #54B6D4">BUSINESS CONTENT</span>
+                <h3 class="section-title__jp" style="color: #000044; font-size: 2rem;">オンラインアシスタント® の業務内容例</h3>
+            </div>
+            <p class="u-text-center u-mb-lg p-business__desc">
+                実務経験豊富な人材が様々なバックオフィスの業務を遠隔でサポート。<br>
+                一般的なアシスタント業務からより専門性の高い業務までパソコンで出来る業務なら何でもご依頼いただけます。
+            </p>
+
+            <div class="p-business__grid">
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img07.png" alt="経理">
+                    </div>
+                    <p class="p-business__name">経理</p>
                 </div>
-                <p class="u-text-center u-mb-lg p-business__desc">
-                    実務経験豊富な人材が様々なバックオフィスの業務を遠隔でサポート。<br>
-                    一般的なアシスタント業務からより専門性の高い業務までパソコンで出来る業務なら何でもご依頼いただけます。
-                </p>
-
-                <div class="p-business__grid">
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img07.png"
-                                alt="経理">
-                        </div>
-                        <p class="p-business__name">経理</p>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img08.png" alt="労務">
                     </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img08.png"
-                                alt="労務">
-                        </div>
-                        <p class="p-business__name">労務</p>
-                    </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img09.png"
-                                alt="採用">
-                        </div>
-                        <p class="p-business__name">採用</p>
-                    </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img10.png"
-                                alt="秘書">
-                        </div>
-                        <p class="p-business__name">秘書</p>
-                    </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img11.png"
-                                alt="EC運⽤代⾏">
-                        </div>
-                        <p class="p-business__name">EC運⽤代⾏</p>
-                    </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img12.png"
-                                alt="WEB/デザイン">
-                        </div>
-                        <p class="p-business__name">WEB/デザイン</p>
-                    </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img13.png"
-                                alt="営業/マーケ">
-                        </div>
-                        <p class="p-business__name">営業/マーケ</p>
-                    </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img14.png"
-                                alt="翻訳">
-                        </div>
-                        <p class="p-business__name">翻訳</p>
-                    </div>
-                    <div class="p-business__item fade-in-up">
-                        <div class="p-business__icon">
-                            <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img15.png"
-                                alt="オフライン">
-                        </div>
-                        <p class="p-business__name">オフライン</p>
-                    </div>
+                    <p class="p-business__name">労務</p>
                 </div>
-
-                <div class="u-text-center u-mt-lg">
-                    <a href="#" class="c-btn-business-view">VIEW MORE <span class="arrow">→</span></a>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img09.png" alt="採用">
+                    </div>
+                    <p class="p-business__name">採用</p>
+                </div>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img10.png" alt="秘書">
+                    </div>
+                    <p class="p-business__name">秘書</p>
+                </div>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img11.png"
+                            alt="EC運⽤代⾏">
+                    </div>
+                    <p class="p-business__name">EC運⽤代⾏</p>
+                </div>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img12.png"
+                            alt="WEB/デザイン">
+                    </div>
+                    <p class="p-business__name">WEB/デザイン</p>
+                </div>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img13.png"
+                            alt="営業/マーケ">
+                    </div>
+                    <p class="p-business__name">営業/マーケ</p>
+                </div>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img14.png" alt="翻訳">
+                    </div>
+                    <p class="p-business__name">翻訳</p>
+                </div>
+                <div class="p-business__item fade-in-up">
+                    <div class="p-business__icon">
+                        <img src="https://fujiko-san.com/wp/wp-content/themes/oops_tcd048/img_top/img15.png"
+                            alt="オフライン">
+                    </div>
+                    <p class="p-business__name">オフライン</p>
                 </div>
             </div>
-        </section>
 
-        <!-- Pricing: カード形式 -->
-        <section class="section section--pricing p-pricing">
-            <div class="container p-pricing__inner">
-                <div class="p-pricing__header">
-                    <span class="p-pricing__subtitle">RATE PLAN</span>
-                    <h3 class="p-pricing__title">オンラインアシスタント<sup>®</sup> 料金プラン</h3>
-                    <p class="p-pricing__desc">
-                        圧倒的にリーズナブルなプランでアシスタントを起用できるのは「フジ子さん」だけ。<br>
-                        「人手が欲しいけど大きく予算は使えない…」そんなお悩みも強力にバックアップいたします！
-                    </p>
-                </div>
+            <div class="u-text-center u-mt-lg">
+                <a href="#" class="c-btn-business-view">VIEW MORE <span class="arrow">→</span></a>
+            </div>
+        </div>
+    </section>
 
-                <div class="p-pricing__table-container">
-                    <table class="p-pricing__table">
-                        <thead>
-                            <tr>
-                                <th class="p-pricing__th-empty"></th>
-                                <th class="p-pricing__th p-pricing__th--trial">トライアル</th>
-                                <th class="p-pricing__th p-pricing__th--plan20">PLAN20</th>
-                                <th class="p-pricing__th p-pricing__th--plan30">PLAN30</th>
-                                <th class="p-pricing__th p-pricing__th--plan50">PLAN50</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th>ご契約期間</th>
-                                <td>1週間</td>
-                                <td>1ヶ月<br><span class="u-text-sm">（自動更新）</span></td>
-                                <td>1ヶ月<br><span class="u-text-sm">（自動更新）</span></td>
-                                <td>1ヶ月<br><span class="u-text-sm">（自動更新）</span></td>
-                            </tr>
-                            <tr>
-                                <th>実働時間</th>
-                                <td>2時間</td>
-                                <td>20時間/月</td>
-                                <td>30時間/月</td>
-                                <td>50時間/月</td>
-                            </tr>
-                            <tr>
-                                <th>月額料金</th>
-                                <td class="p-pricing__value--free">無料</td>
-                                <td><small>税込</small>65,560<small>円</small></td>
-                                <td><small>税込</small>97,350<small>円</small></td>
-                                <td><small>税込</small>143,000<small>円</small></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-
-                <div class="p-pricing__actions">
-                    <a href="#" class="c-btn-pricing c-btn-pricing--black">VIEW MORE <span class="arrow">→</span></a>
-                    <a href="#" class="c-btn-pricing c-btn-pricing--yellow">CONTACT <span class="arrow">→</span></a>
-                </div>
-
-                <p class="p-pricing__note">
-                    フジ子さんなら、退職の心配のないハイレベルなアシスタントチームに<br>
-                    パート社員並みのコスト感覚で業務を任せられます！
+    <!-- Pricing: カード形式 -->
+    <section class="section section--pricing p-pricing">
+        <div class="container p-pricing__inner">
+            <div class="p-pricing__header">
+                <span class="p-pricing__subtitle">RATE PLAN</span>
+                <h3 class="p-pricing__title">オンラインアシスタント<sup>®</sup> 料金プラン</h3>
+                <p class="p-pricing__desc">
+                    圧倒的にリーズナブルなプランでアシスタントを起用できるのは「フジ子さん」だけ。<br>
+                    「人手が欲しいけど大きく予算は使えない…」そんなお悩みも強力にバックアップいたします！
                 </p>
             </div>
-        </section>
 
-        <!-- User Review Section -->
-        <section class="section section--review p-review">
-            <div class="container">
-                <div class="section-title section-title--center">
-                    <span class="section-title__en" style="color: #54B6D4">User review</span>
-                    <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">お客様の声</h3>
-                </div>
-                <p class="p-review__desc">フジ子さんを導入・活用されているお客様から寄せられた声をお届けします。</p>
-
-                <div class="p-review__slider">
-                    <button class="p-review__nav p-review__nav--prev" aria-label="前へ" onclick="prevReview()">
-                        <span>←</span>
-                    </button>
-
-                    <div class="p-review__cards-wrapper">
-                        <div class="p-review__cards-track" id="reviewTrack">
-                            <!-- Card 1 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_01.png" alt="株式会社ジュニ">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">ルーティンワークを洗い出すことで、会社全体としての業務改善に繋がった。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社ジュニ</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：Webサービス</p>
-                                        <p>企業規模：30〜50名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">ECサイト運営業務</span>
-                                        <span class="p-review__tag">人事労務・法務</span>
-                                        <span class="p-review__tag">経理業務</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 2 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_02.png" alt="株式会社テクノフューチャー">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">採用コストを大幅に削減しながら、業務品質を維持できています。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社テクノフューチャー</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：IT・通信</p>
-                                        <p>企業規模：50〜100名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">経理業務</span>
-                                        <span class="p-review__tag">総務</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 3 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_03.png" alt="合同会社グリーンライフ">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">コア業務に集中できるようになり、売上が20%向上しました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">合同会社グリーンライフ</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：環境・エネルギー</p>
-                                        <p>企業規模：10〜30名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">秘書業務</span>
-                                        <span class="p-review__tag">営業サポート</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 4 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_04.png" alt="株式会社ブライトスター">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">経理担当者の退職時も、スムーズに業務を引き継ぐことができました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社ブライトスター</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：コンサルティング</p>
-                                        <p>企業規模：20〜30名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">経理業務</span>
-                                        <span class="p-review__tag">請求書発行</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 5 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_05.png" alt="有限会社サンライズ商事">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">海外との取引でも、翻訳業務を安心して任せられます。</p>
-                                    </div>
-                                    <h4 class="p-review__company">有限会社サンライズ商事</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：商社・貿易</p>
-                                        <p>企業規模：10〜20名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">翻訳</span>
-                                        <span class="p-review__tag">事務作業</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 6 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_01.png" alt="株式会社メディカルプラス">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">医療事務の専門知識がある方に対応いただき、大変助かっています。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社メディカルプラス</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：医療・ヘルスケア</p>
-                                        <p>企業規模：50〜100名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">事務作業</span>
-                                        <span class="p-review__tag">データ入力</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 7 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_02.png" alt="株式会社デジタルクリエイト">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">デザイン業務のクオリティが高く、社内デザイナーと遜色ない仕上がりです。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社デジタルクリエイト</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：広告・メディア</p>
-                                        <p>企業規模：30〜50名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">WEB/デザイン</span>
-                                        <span class="p-review__tag">SNS運用</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 8 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_03.png" alt="株式会社ホームステージ">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">不動産業界特有の繁忙期も、柔軟に対応していただけました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社ホームステージ</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：不動産</p>
-                                        <p>企業規模：20〜30名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">データ入力</span>
-                                        <span class="p-review__tag">物件管理</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 9 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_04.png" alt="株式会社フードイノベーション">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">複数店舗の売上管理を一元化でき、経営判断が早くなりました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社フードイノベーション</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：飲食・フード</p>
-                                        <p>企業規模：100〜200名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">経理業務</span>
-                                        <span class="p-review__tag">売上管理</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 10 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_05.png" alt="株式会社エデュケーションラボ">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">オンライン講座の運営サポートで、受講者対応の質が向上しました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社エデュケーションラボ</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：教育・研修</p>
-                                        <p>企業規模：10〜20名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">カスタマーサポート</span>
-                                        <span class="p-review__tag">事務作業</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 11 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_01.png" alt="合同会社スマートロジスティクス">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">物流業務の煩雑な書類作成を効率化でき、配送スピードが上がりました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">合同会社スマートロジスティクス</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：物流・運輸</p>
-                                        <p>企業規模：50〜100名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">書類作成</span>
-                                        <span class="p-review__tag">データ入力</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 12 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_02.png" alt="株式会社ファッションモード">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">ECサイトの商品登録作業が迅速になり、新商品の展開が早くなりました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社ファッションモード</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：アパレル・ファッション</p>
-                                        <p>企業規模：30〜50名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">ECサイト運営</span>
-                                        <span class="p-review__tag">商品登録</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 13 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_03.png" alt="株式会社ビルドマスター">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">建設業の複雑な見積書作成も正確に対応いただけています。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社ビルドマスター</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：建設・建築</p>
-                                        <p>企業規模：100〜200名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">見積書作成</span>
-                                        <span class="p-review__tag">経理業務</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 14 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_04.png" alt="株式会社トラベルジャパン">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">多言語対応が必要な予約管理を安心して任せられます。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社トラベルジャパン</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：旅行・観光</p>
-                                        <p>企業規模：20〜30名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">予約管理</span>
-                                        <span class="p-review__tag">翻訳</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 15 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_05.png" alt="社会福祉法人ケアサポート">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">介護現場のスタッフが利用者様対応に集中できるようになりました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">社会福祉法人ケアサポート</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：福祉・介護</p>
-                                        <p>企業規模：200名以上</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">人事労務</span>
-                                        <span class="p-review__tag">給与計算</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 16 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_01.png" alt="株式会社スポーツプロモーション">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">イベント運営の事務作業を任せられ、企画に集中できています。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社スポーツプロモーション</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：スポーツ・レジャー</p>
-                                        <p>企業規模：10〜20名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">イベント運営</span>
-                                        <span class="p-review__tag">SNS運用</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 17 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_02.png" alt="株式会社リーガルアドバイザーズ">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">法律事務所の書類整理や顧客対応をプロフェッショナルに対応いただいています。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社リーガルアドバイザーズ</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：法律・士業</p>
-                                        <p>企業規模：5〜10名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">書類作成</span>
-                                        <span class="p-review__tag">スケジュール管理</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 18 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_03.png" alt="株式会社アグリテック">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">農業経営のデジタル化を進める中で、欠かせないパートナーになっています。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社アグリテック</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：農業・食品</p>
-                                        <p>企業規模：30〜50名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">経理業務</span>
-                                        <span class="p-review__tag">受発注管理</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 19 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_04.png" alt="株式会社クリエイティブスタジオ">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">動画編集や画像加工の補助作業で、クリエイターの生産性が上がりました。</p>
-                                    </div>
-                                    <h4 class="p-review__company">株式会社クリエイティブスタジオ</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：映像・エンタメ</p>
-                                        <p>企業規模：10〜20名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">WEB/デザイン</span>
-                                        <span class="p-review__tag">動画編集補助</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                            <!-- Card 20 -->
-                            <div class="p-review__card">
-                                <div class="p-review__card-img">
-                                    <img src="img/review_persona_05.png" alt="NPO法人ソーシャルイノベーション">
-                                </div>
-                                <div class="p-review__card-content">
-                                    <div class="p-review__card-quote">
-                                        <span class="p-review__quote-mark">"</span>
-                                        <p class="p-review__quote-text">限られた予算の中で、質の高い事務サポートが受けられて感謝しています。</p>
-                                    </div>
-                                    <h4 class="p-review__company">NPO法人ソーシャルイノベーション</h4>
-                                    <div class="p-review__info">
-                                        <p>業種：NPO・社会貢献</p>
-                                        <p>企業規模：5〜10名</p>
-                                    </div>
-                                    <div class="p-review__tags">
-                                        <span class="p-review__tag">事務作業</span>
-                                        <span class="p-review__tag">資料作成</span>
-                                    </div>
-                                    <a href="#" class="p-review__more">
-                                        <span>VIEW MORE</span>
-                                        <span class="p-review__more-arrow">→</span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <button class="p-review__nav p-review__nav--next" aria-label="次へ" onclick="nextReview()">
-                        <span>→</span>
-                    </button>
-                </div>
-
-                <!-- Pagination Dots -->
-                <div class="p-review__pagination" id="reviewPagination">
-                    <span class="p-review__dot is-active" onclick="goToReview(0)"></span>
-                    <span class="p-review__dot" onclick="goToReview(1)"></span>
-                    <span class="p-review__dot" onclick="goToReview(2)"></span>
-                    <span class="p-review__dot" onclick="goToReview(3)"></span>
-                    <span class="p-review__dot" onclick="goToReview(4)"></span>
-                    <span class="p-review__dot" onclick="goToReview(5)"></span>
-                    <span class="p-review__dot" onclick="goToReview(6)"></span>
-                    <span class="p-review__dot" onclick="goToReview(7)"></span>
-                    <span class="p-review__dot" onclick="goToReview(8)"></span>
-                    <span class="p-review__dot" onclick="goToReview(9)"></span>
-                    <span class="p-review__dot" onclick="goToReview(10)"></span>
-                    <span class="p-review__dot" onclick="goToReview(11)"></span>
-                    <span class="p-review__dot" onclick="goToReview(12)"></span>
-                    <span class="p-review__dot" onclick="goToReview(13)"></span>
-                    <span class="p-review__dot" onclick="goToReview(14)"></span>
-                    <span class="p-review__dot" onclick="goToReview(15)"></span>
-                    <span class="p-review__dot" onclick="goToReview(16)"></span>
-                    <span class="p-review__dot" onclick="goToReview(17)"></span>
-                    <span class="p-review__dot" onclick="goToReview(18)"></span>
-                    <span class="p-review__dot" onclick="goToReview(19)"></span>
-                </div>
-
-                <div class="p-review__actions">
-                    <a href="#" class="c-btn-review">VIEW MORE <span class="arrow">→</span></a>
-                </div>
-            </div>
-        </section>
-
-        <!-- Client Logos Section -->
-        <section class="section section--logos p-logos">
-            <!-- Top Row - Slides Left -->
-            <div class="p-logos__row p-logos__row--left">
-                <div class="p-logos__track">
-                    <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
-                    <div class="p-logos__item"><img src="img/logo_google.png" alt="Google"></div>
-                    <div class="p-logos__item"><img src="img/logo_amazon.svg" alt="Amazon"></div>
-                    <div class="p-logos__item"><img src="img/logo_microsoft.png" alt="Microsoft"></div>
-                    <div class="p-logos__item"><img src="img/logo_apple.png" alt="Apple"></div>
-                    <div class="p-logos__item"><img src="img/logo_netflix.svg" alt="Netflix"></div>
-                    <div class="p-logos__item"><img src="img/logo_youtube.png" alt="YouTube"></div>
-                    <div class="p-logos__item"><img src="img/logo_meta.svg" alt="Meta"></div>
-                    <div class="p-logos__item"><img src="img/logo_sony.svg" alt="Sony"></div>
-                    <div class="p-logos__item"><img src="img/logo_honda.svg" alt="Honda"></div>
-                    <div class="p-logos__item"><img src="img/logo_rakuten.svg" alt="Rakuten"></div>
-                    <div class="p-logos__item"><img src="img/logo_nintendo.svg" alt="Nintendo"></div>
-                    <div class="p-logos__item"><img src="img/logo_tiktok.png" alt="TikTok"></div>
-                    <div class="p-logos__item"><img src="img/logo_openai.png" alt="OpenAI"></div>
-                    <div class="p-logos__item"><img src="img/logo_adobe.png" alt="Adobe"></div>
-                    <!-- Duplicate for seamless loop -->
-                    <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
-                    <div class="p-logos__item"><img src="img/logo_google.png" alt="Google"></div>
-                    <div class="p-logos__item"><img src="img/logo_amazon.svg" alt="Amazon"></div>
-                    <div class="p-logos__item"><img src="img/logo_microsoft.png" alt="Microsoft"></div>
-                    <div class="p-logos__item"><img src="img/logo_apple.png" alt="Apple"></div>
-                    <div class="p-logos__item"><img src="img/logo_netflix.svg" alt="Netflix"></div>
-                    <div class="p-logos__item"><img src="img/logo_youtube.png" alt="YouTube"></div>
-                    <div class="p-logos__item"><img src="img/logo_meta.svg" alt="Meta"></div>
-                    <div class="p-logos__item"><img src="img/logo_sony.svg" alt="Sony"></div>
-                    <div class="p-logos__item"><img src="img/logo_honda.svg" alt="Honda"></div>
-                    <div class="p-logos__item"><img src="img/logo_rakuten.svg" alt="Rakuten"></div>
-                    <div class="p-logos__item"><img src="img/logo_nintendo.svg" alt="Nintendo"></div>
-                    <div class="p-logos__item"><img src="img/logo_tiktok.png" alt="TikTok"></div>
-                    <div class="p-logos__item"><img src="img/logo_openai.png" alt="OpenAI"></div>
-                    <div class="p-logos__item"><img src="img/logo_adobe.png" alt="Adobe"></div>
-                </div>
+            <div class="p-pricing__table-container">
+                <table class="p-pricing__table">
+                    <thead>
+                        <tr>
+                            <th class="p-pricing__th-empty"></th>
+                            <th class="p-pricing__th p-pricing__th--trial">トライアル</th>
+                            <th class="p-pricing__th p-pricing__th--plan20">PLAN20</th>
+                            <th class="p-pricing__th p-pricing__th--plan30">PLAN30</th>
+                            <th class="p-pricing__th p-pricing__th--plan50">PLAN50</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th>ご契約期間</th>
+                            <td>1週間</td>
+                            <td>1ヶ月<br><span class="u-text-sm">（自動更新）</span></td>
+                            <td>1ヶ月<br><span class="u-text-sm">（自動更新）</span></td>
+                            <td>1ヶ月<br><span class="u-text-sm">（自動更新）</span></td>
+                        </tr>
+                        <tr>
+                            <th>実働時間</th>
+                            <td>2時間</td>
+                            <td>20時間/月</td>
+                            <td>30時間/月</td>
+                            <td>50時間/月</td>
+                        </tr>
+                        <tr>
+                            <th>月額料金</th>
+                            <td class="p-pricing__value--free">無料</td>
+                            <td><small>税込</small>65,560<small>円</small></td>
+                            <td><small>税込</small>97,350<small>円</small></td>
+                            <td><small>税込</small>143,000<small>円</small></td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
 
-            <!-- Bottom Row - Slides Right -->
-            <div class="p-logos__row p-logos__row--right">
-                <div class="p-logos__track">
-                    <div class="p-logos__item"><img src="img/logo_spotify.svg" alt="Spotify"></div>
-                    <div class="p-logos__item"><img src="img/logo_twitter.svg" alt="Twitter"></div>
-                    <div class="p-logos__item"><img src="img/logo_instagram.svg" alt="Instagram"></div>
-                    <div class="p-logos__item"><img src="img/logo_slack.svg" alt="Slack"></div>
-                    <div class="p-logos__item"><img src="img/logo_linkedin.svg" alt="LinkedIn"></div>
-                    <div class="p-logos__item"><img src="img/logo_docker.svg" alt="Docker"></div>
-                    <div class="p-logos__item"><img src="img/logo_github.png" alt="GitHub"></div>
-                    <div class="p-logos__item"><img src="img/logo_visa.svg" alt="Visa"></div>
-                    <div class="p-logos__item"><img src="img/logo_mastercard.svg" alt="Mastercard"></div>
-                    <div class="p-logos__item"><img src="img/logo_paypal.svg" alt="PayPal"></div>
-                    <div class="p-logos__item"><img src="img/logo_zoom.svg" alt="Zoom"></div>
-                    <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
-                    <!-- Duplicate for seamless loop -->
-                    <div class="p-logos__item"><img src="img/logo_spotify.svg" alt="Spotify"></div>
-                    <div class="p-logos__item"><img src="img/logo_twitter.svg" alt="Twitter"></div>
-                    <div class="p-logos__item"><img src="img/logo_instagram.svg" alt="Instagram"></div>
-                    <div class="p-logos__item"><img src="img/logo_slack.svg" alt="Slack"></div>
-                    <div class="p-logos__item"><img src="img/logo_linkedin.svg" alt="LinkedIn"></div>
-                    <div class="p-logos__item"><img src="img/logo_docker.svg" alt="Docker"></div>
-                    <div class="p-logos__item"><img src="img/logo_github.png" alt="GitHub"></div>
-                    <div class="p-logos__item"><img src="img/logo_visa.svg" alt="Visa"></div>
-                    <div class="p-logos__item"><img src="img/logo_mastercard.svg" alt="Mastercard"></div>
-                    <div class="p-logos__item"><img src="img/logo_paypal.svg" alt="PayPal"></div>
-                    <div class="p-logos__item"><img src="img/logo_zoom.svg" alt="Zoom"></div>
-                    <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
-                </div>
+            <div class="p-pricing__actions">
+                <a href="#" class="c-btn-pricing c-btn-pricing--black">VIEW MORE <span class="arrow">→</span></a>
+                <a href="#" class="c-btn-pricing c-btn-pricing--yellow">CONTACT <span class="arrow">→</span></a>
             </div>
-        </section>
 
-        <!-- Support: カード -->
-        <section class="section section--support p-support">
-            <div class="container">
-                <div class="section-title section-title--center">
-                    <span class="section-title__en" style="color: #54B6D4">SUPPORT</span>
-                    <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">お客様サポート</h3>
-                </div>
-                <p class="u-text-center u-mb-lg">
-                    オンラインアシスタント® を導入いただく際の参考にご活用ください
-                </p>
+            <p class="p-pricing__note">
+                フジ子さんなら、退職の心配のないハイレベルなアシスタントチームに<br>
+                パート社員並みのコスト感覚で業務を任せられます！
+            </p>
+        </div>
+    </section>
 
-                <div class="p-support__grid">
-                    <!-- Card 1 -->
-                    <div class="p-support__card">
-                        <div class="p-support__icon-circle">
-                            <img src="img/icon_support_security.png" alt="セキュリティ">
-                        </div>
-                        <h4 class="p-support__title">安心のセキュリティ</h4>
-                        <p class="p-support__text">
-                            フジ子さんは、最新のセキュリティ技術と徹底した情報管理教育でお客様の大切な情報をお預かりしています。
-                        </p>
-                        <div class="p-support__arrow">→</div>
-                    </div>
-
-                    <!-- Card 2 -->
-                    <div class="p-support__card">
-                        <div class="p-support__icon-circle">
-                            <img src="img/icon_support_document.png" alt="資料ダウンロード">
-                        </div>
-                        <h4 class="p-support__title">資料ダウンロード</h4>
-                        <p class="p-support__text">
-                            フジ子さんってどういうサービスなの？実際にどんなことを代行してくれるの？などの疑問にお答えします。
-                        </p>
-                        <div class="p-support__arrow">→</div>
-                    </div>
-
-                    <!-- Card 3 -->
-                    <div class="p-support__card">
-                        <div class="p-support__icon-circle">
-                            <img src="img/icon_support_seminar.png" alt="セミナー情報">
-                        </div>
-                        <h4 class="p-support__title">セミナー情報</h4>
-                        <p class="p-support__text">
-                            業務効率化に関する情報や、社会課題解決にむけた登壇セミナーなどの情報を発信しています。
-                        </p>
-                        <div class="p-support__arrow">→</div>
-                    </div>
-                </div>
+    <!-- User Review Section -->
+    <section class="section section--review p-review">
+        <div class="container">
+            <div class="section-title section-title--center">
+                <span class="section-title__en" style="color: #54B6D4">User review</span>
+                <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">お客様の声</h3>
             </div>
-        </section>
+            <p class="p-review__desc">フジ子さんを導入・活用されているお客様から寄せられた声をお届けします。</p>
 
-        <!-- Seminar Section -->
-        <section class="section section--seminar p-seminar">
-            <div class="container">
-                <div class="section-title section-title--center">
-                    <span class="section-title__en" style="color: #54B6D4">SEMINAR</span>
-                    <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">セミナー・キャンペーン</h3>
-                </div>
+            <div class="p-review__slider">
+                <button class="p-review__nav p-review__nav--prev" aria-label="前へ" onclick="prevReview()">
+                    <span>←</span>
+                </button>
 
-                <div class="p-seminar__slider">
-                    <div class="p-seminar__track">
+                <div class="p-review__cards-wrapper">
+                    <div class="p-review__cards-track" id="reviewTrack">
                         <!-- Card 1 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_01.png" alt="ウェビナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_01.png" alt="株式会社ジュニ">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">ルーティンワークを洗い出すことで、会社全体としての業務改善に繋がった。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/1/29</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【ウェビナー】バックオフィス業務の「脱ブラックボックス」業務の見える化・仕組み化・効率化セミナー
-                                    </h4>
+                                <h4 class="p-review__company">株式会社ジュニ</h4>
+                                <div class="p-review__info">
+                                    <p>業種：Webサービス</p>
+                                    <p>企業規模：30〜50名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">ECサイト運営業務</span>
+                                    <span class="p-review__tag">人事労務・法務</span>
+                                    <span class="p-review__tag">経理業務</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 2 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_02.png" alt="ウェビナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_02.png" alt="株式会社テクノフューチャー">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">採用コストを大幅に削減しながら、業務品質を維持できています。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/2/25</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【ウェビナー】人手不足でも最高益を出す「建設業の新成長戦略2026」</h4>
+                                <h4 class="p-review__company">株式会社テクノフューチャー</h4>
+                                <div class="p-review__info">
+                                    <p>業種：IT・通信</p>
+                                    <p>企業規模：50〜100名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">経理業務</span>
+                                    <span class="p-review__tag">総務</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 3 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_03.png" alt="アーカイブ">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_03.png" alt="合同会社グリーンライフ">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">コア業務に集中できるようになり、売上が20%向上しました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">随時</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【アーカイブ配信中】バックオフィスの課題をまとめて解決！ オンラインアシスタント活用術</h4>
+                                <h4 class="p-review__company">合同会社グリーンライフ</h4>
+                                <div class="p-review__info">
+                                    <p>業種：環境・エネルギー</p>
+                                    <p>企業規模：10〜30名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">秘書業務</span>
+                                    <span class="p-review__tag">営業サポート</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 4 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_04.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_04.png" alt="株式会社ブライトスター">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">経理担当者の退職時も、スムーズに業務を引き継ぐことができました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/3/10</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【セミナー】経理業務の効率化テクニック公開！クラウド会計導入のポイント</h4>
+                                <h4 class="p-review__company">株式会社ブライトスター</h4>
+                                <div class="p-review__info">
+                                    <p>業種：コンサルティング</p>
+                                    <p>企業規模：20〜30名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">経理業務</span>
+                                    <span class="p-review__tag">請求書発行</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 5 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_01.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_05.png" alt="有限会社サンライズ商事">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">海外との取引でも、翻訳業務を安心して任せられます。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/3/15</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【採用強化】オンラインアシスタントを活用した採用業務の効率化事例</h4>
+                                <h4 class="p-review__company">有限会社サンライズ商事</h4>
+                                <div class="p-review__info">
+                                    <p>業種：商社・貿易</p>
+                                    <p>企業規模：10〜20名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">翻訳</span>
+                                    <span class="p-review__tag">事務作業</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 6 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_02.png" alt="キャンペーン">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_01.png" alt="株式会社メディカルプラス">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">医療事務の専門知識がある方に対応いただき、大変助かっています。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">期間：</span>
-                                        <span class="p-seminar__card-date-value">〜2025/4/30</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【春のキャンペーン】初期費用無料キャンペーン実施中！</h4>
+                                <h4 class="p-review__company">株式会社メディカルプラス</h4>
+                                <div class="p-review__info">
+                                    <p>業種：医療・ヘルスケア</p>
+                                    <p>企業規模：50〜100名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">事務作業</span>
+                                    <span class="p-review__tag">データ入力</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 7 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_03.png" alt="ウェビナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_02.png" alt="株式会社デジタルクリエイト">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">デザイン業務のクオリティが高く、社内デザイナーと遜色ない仕上がりです。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/4/10</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【特別講演】リモートワーク時代のチームマネジメント術</h4>
+                                <h4 class="p-review__company">株式会社デジタルクリエイト</h4>
+                                <div class="p-review__info">
+                                    <p>業種：広告・メディア</p>
+                                    <p>企業規模：30〜50名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">WEB/デザイン</span>
+                                    <span class="p-review__tag">SNS運用</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 8 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_04.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_03.png" alt="株式会社ホームステージ">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">不動産業界特有の繁忙期も、柔軟に対応していただけました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/4/20</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">DX推進の第一歩！ペーパーレス化の進め方とツール選定</h4>
+                                <h4 class="p-review__company">株式会社ホームステージ</h4>
+                                <div class="p-review__info">
+                                    <p>業種：不動産</p>
+                                    <p>企業規模：20〜30名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">データ入力</span>
+                                    <span class="p-review__tag">物件管理</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 9 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_01.png" alt="ウェビナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_04.png" alt="株式会社フードイノベーション">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">複数店舗の売上管理を一元化でき、経営判断が早くなりました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/5/10</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【ウェビナー】事例で学ぶ！失敗しないアウトソーシングの導入方法</h4>
+                                <h4 class="p-review__company">株式会社フードイノベーション</h4>
+                                <div class="p-review__info">
+                                    <p>業種：飲食・フード</p>
+                                    <p>企業規模：100〜200名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">経理業務</span>
+                                    <span class="p-review__tag">売上管理</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 10 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_02.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_05.png" alt="株式会社エデュケーションラボ">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">オンライン講座の運営サポートで、受講者対応の質が向上しました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/5/25</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【経営者向け】コア業務に集中するためのタイムマネジメント</h4>
+                                <h4 class="p-review__company">株式会社エデュケーションラボ</h4>
+                                <div class="p-review__info">
+                                    <p>業種：教育・研修</p>
+                                    <p>企業規模：10〜20名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">カスタマーサポート</span>
+                                    <span class="p-review__tag">事務作業</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 11 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_03.png" alt="ウェビナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_01.png" alt="合同会社スマートロジスティクス">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">物流業務の煩雑な書類作成を効率化でき、配送スピードが上がりました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/6/5</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">スタートアップ企業のバックオフィス構築ロードマップ</h4>
+                                <h4 class="p-review__company">合同会社スマートロジスティクス</h4>
+                                <div class="p-review__info">
+                                    <p>業種：物流・運輸</p>
+                                    <p>企業規模：50〜100名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">書類作成</span>
+                                    <span class="p-review__tag">データ入力</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 12 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_04.png" alt="アーカイブ">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_02.png" alt="株式会社ファッションモード">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">ECサイトの商品登録作業が迅速になり、新商品の展開が早くなりました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">期間：</span>
-                                        <span class="p-seminar__card-date-value">随時</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【動画配信】はじめてのオンラインアシスタント利用ガイド</h4>
+                                <h4 class="p-review__company">株式会社ファッションモード</h4>
+                                <div class="p-review__info">
+                                    <p>業種：アパレル・ファッション</p>
+                                    <p>企業規模：30〜50名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">ECサイト運営</span>
+                                    <span class="p-review__tag">商品登録</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 13 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_01.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_03.png" alt="株式会社ビルドマスター">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">建設業の複雑な見積書作成も正確に対応いただけています。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/6/20</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">ひとり社長のためのバックオフィス効率化術</h4>
+                                <h4 class="p-review__company">株式会社ビルドマスター</h4>
+                                <div class="p-review__info">
+                                    <p>業種：建設・建築</p>
+                                    <p>企業規模：100〜200名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">見積書作成</span>
+                                    <span class="p-review__tag">経理業務</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 14 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_02.png" alt="ウェビナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_04.png" alt="株式会社トラベルジャパン">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">多言語対応が必要な予約管理を安心して任せられます。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/7/1</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【労務管理】法改正対応のポイントと実務の注意点</h4>
+                                <h4 class="p-review__company">株式会社トラベルジャパン</h4>
+                                <div class="p-review__info">
+                                    <p>業種：旅行・観光</p>
+                                    <p>企業規模：20〜30名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">予約管理</span>
+                                    <span class="p-review__tag">翻訳</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 15 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_03.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_05.png" alt="社会福祉法人ケアサポート">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">介護現場のスタッフが利用者様対応に集中できるようになりました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/7/15</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">インボイス制度対応の総点検セミナー</h4>
+                                <h4 class="p-review__company">社会福祉法人ケアサポート</h4>
+                                <div class="p-review__info">
+                                    <p>業種：福祉・介護</p>
+                                    <p>企業規模：200名以上</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">人事労務</span>
+                                    <span class="p-review__tag">給与計算</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 16 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_04.png" alt="キャンペーン">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_01.png" alt="株式会社スポーツプロモーション">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">イベント運営の事務作業を任せられ、企画に集中できています。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">期間：</span>
-                                        <span class="p-seminar__card-date-value">夏期限定</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【Summer Campaign】ご紹介キャンペーン実施中</h4>
+                                <h4 class="p-review__company">株式会社スポーツプロモーション</h4>
+                                <div class="p-review__info">
+                                    <p>業種：スポーツ・レジャー</p>
+                                    <p>企業規模：10〜20名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">イベント運営</span>
+                                    <span class="p-review__tag">SNS運用</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 17 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_01.png" alt="ウェビナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_02.png" alt="株式会社リーガルアドバイザーズ">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">法律事務所の書類整理や顧客対応をプロフェッショナルに対応いただいています。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/8/5</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【業務改善】マニュアル作成のコツと運用のポイント</h4>
+                                <h4 class="p-review__company">株式会社リーガルアドバイザーズ</h4>
+                                <div class="p-review__info">
+                                    <p>業種：法律・士業</p>
+                                    <p>企業規模：5〜10名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">書類作成</span>
+                                    <span class="p-review__tag">スケジュール管理</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 18 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_02.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_03.png" alt="株式会社アグリテック">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">農業経営のデジタル化を進める中で、欠かせないパートナーになっています。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/8/20</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">年末調整業務の準備と効率化セミナー</h4>
+                                <h4 class="p-review__company">株式会社アグリテック</h4>
+                                <div class="p-review__info">
+                                    <p>業種：農業・食品</p>
+                                    <p>企業規模：30〜50名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">経理業務</span>
+                                    <span class="p-review__tag">受発注管理</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 19 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_03.png" alt="アーカイブ">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_04.png" alt="株式会社クリエイティブスタジオ">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">動画編集や画像加工の補助作業で、クリエイターの生産性が上がりました。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">期間：</span>
-                                        <span class="p-seminar__card-date-value">随時</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">【アーカイブ】成功企業に学ぶ、オンラインアシスタント活用の方程式</h4>
+                                <h4 class="p-review__company">株式会社クリエイティブスタジオ</h4>
+                                <div class="p-review__info">
+                                    <p>業種：映像・エンタメ</p>
+                                    <p>企業規模：10〜20名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">WEB/デザイン</span>
+                                    <span class="p-review__tag">動画編集補助</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                         <!-- Card 20 -->
-                        <div class="p-seminar__card">
-                            <a href="#" class="p-seminar__card-link">
-                                <div class="p-seminar__card-img">
-                                    <img src="img/seminar_04.png" alt="セミナー">
+                        <div class="p-review__card">
+                            <div class="p-review__card-img">
+                                <img src="img/review_persona_05.png" alt="NPO法人ソーシャルイノベーション">
+                            </div>
+                            <div class="p-review__card-content">
+                                <div class="p-review__card-quote">
+                                    <span class="p-review__quote-mark">"</span>
+                                    <p class="p-review__quote-text">限られた予算の中で、質の高い事務サポートが受けられて感謝しています。</p>
                                 </div>
-                                <div class="p-seminar__card-body">
-                                    <div class="p-seminar__card-date">
-                                        <span class="p-seminar__card-date-label">開催日：</span>
-                                        <span class="p-seminar__card-date-value">2025/9/10</span>
-                                    </div>
-                                    <h4 class="p-seminar__card-title">次世代バックオフィス構築のためのDX戦略</h4>
+                                <h4 class="p-review__company">NPO法人ソーシャルイノベーション</h4>
+                                <div class="p-review__info">
+                                    <p>業種：NPO・社会貢献</p>
+                                    <p>企業規模：5〜10名</p>
                                 </div>
-                                <div class="p-seminar__card-arrow"><span>→</span></div>
-                            </a>
+                                <div class="p-review__tags">
+                                    <span class="p-review__tag">事務作業</span>
+                                    <span class="p-review__tag">資料作成</span>
+                                </div>
+                                <a href="#" class="p-review__more">
+                                    <span>VIEW MORE</span>
+                                    <span class="p-review__more-arrow">→</span>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Pagination Dots -->
-                <div class="p-seminar__pagination">
-                    <span class="p-seminar__dot is-active"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
-                    <span class="p-seminar__dot"></span>
+                <button class="p-review__nav p-review__nav--next" aria-label="次へ" onclick="nextReview()">
+                    <span>→</span>
+                </button>
+            </div>
+
+            <!-- Pagination Dots -->
+            <div class="p-review__pagination" id="reviewPagination">
+                <span class="p-review__dot is-active" onclick="goToReview(0)"></span>
+                <span class="p-review__dot" onclick="goToReview(1)"></span>
+                <span class="p-review__dot" onclick="goToReview(2)"></span>
+                <span class="p-review__dot" onclick="goToReview(3)"></span>
+                <span class="p-review__dot" onclick="goToReview(4)"></span>
+                <span class="p-review__dot" onclick="goToReview(5)"></span>
+                <span class="p-review__dot" onclick="goToReview(6)"></span>
+                <span class="p-review__dot" onclick="goToReview(7)"></span>
+                <span class="p-review__dot" onclick="goToReview(8)"></span>
+                <span class="p-review__dot" onclick="goToReview(9)"></span>
+                <span class="p-review__dot" onclick="goToReview(10)"></span>
+                <span class="p-review__dot" onclick="goToReview(11)"></span>
+                <span class="p-review__dot" onclick="goToReview(12)"></span>
+                <span class="p-review__dot" onclick="goToReview(13)"></span>
+                <span class="p-review__dot" onclick="goToReview(14)"></span>
+                <span class="p-review__dot" onclick="goToReview(15)"></span>
+                <span class="p-review__dot" onclick="goToReview(16)"></span>
+                <span class="p-review__dot" onclick="goToReview(17)"></span>
+                <span class="p-review__dot" onclick="goToReview(18)"></span>
+                <span class="p-review__dot" onclick="goToReview(19)"></span>
+            </div>
+
+            <div class="p-review__actions">
+                <a href="#" class="c-btn-review">VIEW MORE <span class="arrow">→</span></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Client Logos Section -->
+    <section class="section section--logos p-logos">
+        <!-- Top Row - Slides Left -->
+        <div class="p-logos__row p-logos__row--left">
+            <div class="p-logos__track">
+                <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
+                <div class="p-logos__item"><img src="img/logo_google.png" alt="Google"></div>
+                <div class="p-logos__item"><img src="img/logo_amazon.svg" alt="Amazon"></div>
+                <div class="p-logos__item"><img src="img/logo_microsoft.png" alt="Microsoft"></div>
+                <div class="p-logos__item"><img src="img/logo_apple.png" alt="Apple"></div>
+                <div class="p-logos__item"><img src="img/logo_netflix.svg" alt="Netflix"></div>
+                <div class="p-logos__item"><img src="img/logo_youtube.png" alt="YouTube"></div>
+                <div class="p-logos__item"><img src="img/logo_meta.svg" alt="Meta"></div>
+                <div class="p-logos__item"><img src="img/logo_sony.svg" alt="Sony"></div>
+                <div class="p-logos__item"><img src="img/logo_honda.svg" alt="Honda"></div>
+                <div class="p-logos__item"><img src="img/logo_rakuten.svg" alt="Rakuten"></div>
+                <div class="p-logos__item"><img src="img/logo_nintendo.svg" alt="Nintendo"></div>
+                <div class="p-logos__item"><img src="img/logo_tiktok.png" alt="TikTok"></div>
+                <div class="p-logos__item"><img src="img/logo_openai.png" alt="OpenAI"></div>
+                <div class="p-logos__item"><img src="img/logo_adobe.png" alt="Adobe"></div>
+                <!-- Duplicate for seamless loop -->
+                <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
+                <div class="p-logos__item"><img src="img/logo_google.png" alt="Google"></div>
+                <div class="p-logos__item"><img src="img/logo_amazon.svg" alt="Amazon"></div>
+                <div class="p-logos__item"><img src="img/logo_microsoft.png" alt="Microsoft"></div>
+                <div class="p-logos__item"><img src="img/logo_apple.png" alt="Apple"></div>
+                <div class="p-logos__item"><img src="img/logo_netflix.svg" alt="Netflix"></div>
+                <div class="p-logos__item"><img src="img/logo_youtube.png" alt="YouTube"></div>
+                <div class="p-logos__item"><img src="img/logo_meta.svg" alt="Meta"></div>
+                <div class="p-logos__item"><img src="img/logo_sony.svg" alt="Sony"></div>
+                <div class="p-logos__item"><img src="img/logo_honda.svg" alt="Honda"></div>
+                <div class="p-logos__item"><img src="img/logo_rakuten.svg" alt="Rakuten"></div>
+                <div class="p-logos__item"><img src="img/logo_nintendo.svg" alt="Nintendo"></div>
+                <div class="p-logos__item"><img src="img/logo_tiktok.png" alt="TikTok"></div>
+                <div class="p-logos__item"><img src="img/logo_openai.png" alt="OpenAI"></div>
+                <div class="p-logos__item"><img src="img/logo_adobe.png" alt="Adobe"></div>
+            </div>
+        </div>
+
+        <!-- Bottom Row - Slides Right -->
+        <div class="p-logos__row p-logos__row--right">
+            <div class="p-logos__track">
+                <div class="p-logos__item"><img src="img/logo_spotify.svg" alt="Spotify"></div>
+                <div class="p-logos__item"><img src="img/logo_twitter.svg" alt="Twitter"></div>
+                <div class="p-logos__item"><img src="img/logo_instagram.svg" alt="Instagram"></div>
+                <div class="p-logos__item"><img src="img/logo_slack.svg" alt="Slack"></div>
+                <div class="p-logos__item"><img src="img/logo_linkedin.svg" alt="LinkedIn"></div>
+                <div class="p-logos__item"><img src="img/logo_docker.svg" alt="Docker"></div>
+                <div class="p-logos__item"><img src="img/logo_github.png" alt="GitHub"></div>
+                <div class="p-logos__item"><img src="img/logo_visa.svg" alt="Visa"></div>
+                <div class="p-logos__item"><img src="img/logo_mastercard.svg" alt="Mastercard"></div>
+                <div class="p-logos__item"><img src="img/logo_paypal.svg" alt="PayPal"></div>
+                <div class="p-logos__item"><img src="img/logo_zoom.svg" alt="Zoom"></div>
+                <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
+                <!-- Duplicate for seamless loop -->
+                <div class="p-logos__item"><img src="img/logo_spotify.svg" alt="Spotify"></div>
+                <div class="p-logos__item"><img src="img/logo_twitter.svg" alt="Twitter"></div>
+                <div class="p-logos__item"><img src="img/logo_instagram.svg" alt="Instagram"></div>
+                <div class="p-logos__item"><img src="img/logo_slack.svg" alt="Slack"></div>
+                <div class="p-logos__item"><img src="img/logo_linkedin.svg" alt="LinkedIn"></div>
+                <div class="p-logos__item"><img src="img/logo_docker.svg" alt="Docker"></div>
+                <div class="p-logos__item"><img src="img/logo_github.png" alt="GitHub"></div>
+                <div class="p-logos__item"><img src="img/logo_visa.svg" alt="Visa"></div>
+                <div class="p-logos__item"><img src="img/logo_mastercard.svg" alt="Mastercard"></div>
+                <div class="p-logos__item"><img src="img/logo_paypal.svg" alt="PayPal"></div>
+                <div class="p-logos__item"><img src="img/logo_zoom.svg" alt="Zoom"></div>
+                <div class="p-logos__item"><img src="img/logo_za.jpg" alt="ZA"></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Support: カード -->
+    <section class="section section--support p-support">
+        <div class="container">
+            <div class="section-title section-title--center">
+                <span class="section-title__en" style="color: #54B6D4">SUPPORT</span>
+                <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">お客様サポート</h3>
+            </div>
+            <p class="u-text-center u-mb-lg">
+                オンラインアシスタント® を導入いただく際の参考にご活用ください
+            </p>
+
+            <div class="p-support__grid">
+                <!-- Card 1 -->
+                <div class="p-support__card">
+                    <div class="p-support__icon-circle">
+                        <img src="img/icon_support_security.png" alt="セキュリティ">
+                    </div>
+                    <h4 class="p-support__title">安心のセキュリティ</h4>
+                    <p class="p-support__text">
+                        フジ子さんは、最新のセキュリティ技術と徹底した情報管理教育でお客様の大切な情報をお預かりしています。
+                    </p>
+                    <div class="p-support__arrow">→</div>
                 </div>
 
-                <div class="p-seminar__actions">
-                    <a href="#" class="c-btn-seminar">VIEW MORE <span class="arrow">→</span></a>
+                <!-- Card 2 -->
+                <div class="p-support__card">
+                    <div class="p-support__icon-circle">
+                        <img src="img/icon_support_document.png" alt="資料ダウンロード">
+                    </div>
+                    <h4 class="p-support__title">資料ダウンロード</h4>
+                    <p class="p-support__text">
+                        フジ子さんってどういうサービスなの？実際にどんなことを代行してくれるの？などの疑問にお答えします。
+                    </p>
+                    <div class="p-support__arrow">→</div>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="p-support__card">
+                    <div class="p-support__icon-circle">
+                        <img src="img/icon_support_seminar.png" alt="セミナー情報">
+                    </div>
+                    <h4 class="p-support__title">セミナー情報</h4>
+                    <p class="p-support__text">
+                        業務効率化に関する情報や、社会課題解決にむけた登壇セミナーなどの情報を発信しています。
+                    </p>
+                    <div class="p-support__arrow">→</div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- FAQ Section -->
-        <section class="section section--faq p-faq">
-            <div class="container">
-                <div class="section-title section-title--center">
-                    <span class="section-title__en" style="color: #54B6D4">FAQ</span>
-                    <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">よくあるご質問</h3>
-                </div>
+    <!-- Seminar Section -->
+    <section class="section section--seminar p-seminar">
+        <div class="container">
+            <div class="section-title section-title--center">
+                <span class="section-title__en" style="color: #54B6D4">SEMINAR</span>
+                <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">セミナー・キャンペーン</h3>
+            </div>
 
-                <div class="p-faq__list">
-                    <!-- FAQ Item 1 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">担当アシスタントはどのように決まるのですか？一度決まったら変更はできませんか？</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>お客様のご要望や業務内容に応じて、最適なアシスタントをアサインいたします。万が一相性が合わない場合は、担当変更も可能です。</p>
-                        </div>
+            <div class="p-seminar__slider">
+                <div class="p-seminar__track">
+                    <!-- Card 1 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_01.png" alt="ウェビナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/1/29</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【ウェビナー】バックオフィス業務の「脱ブラックボックス」業務の見える化・仕組み化・効率化セミナー
+                                </h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 2 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">アシスタントの品質を担保するためにどのような取り組みをしているのか</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>厳しい採用基準と継続的な研修制度により、高品質なサービスを提供しています。</p>
-                        </div>
+                    <!-- Card 2 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_02.png" alt="ウェビナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/2/25</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【ウェビナー】人手不足でも最高益を出す「建設業の新成長戦略2026」</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 3 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">契約プランはいつでも変更可能ですか？</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>はい、契約プランはいつでも変更可能です。翌月からのプラン変更を承っております。</p>
-                        </div>
+                    <!-- Card 3 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_03.png" alt="アーカイブ">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">随時</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【アーカイブ配信中】バックオフィスの課題をまとめて解決！ オンラインアシスタント活用術</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 4 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">使いきれなかった時間は翌月に繰り越せますか？</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>申し訳ございませんが、未使用時間の翌月繰り越しには対応しておりません。</p>
-                        </div>
+                    <!-- Card 4 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_04.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/3/10</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【セミナー】経理業務の効率化テクニック公開！クラウド会計導入のポイント</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 5 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">作業の依頼はどのようにすればいいのか？連絡ツールなど。</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>チャットワーク、Slack、メールなど、お客様のご希望のツールで依頼いただけます。</p>
-                        </div>
+                    <!-- Card 5 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_01.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/3/15</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【採用強化】オンラインアシスタントを活用した採用業務の効率化事例</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 6 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">月初にまとめて時間を使って欲しいなど、日によって対応時間が異なる対応は可能ですか？</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>はい、可能です。事前にご相談いただければ、柔軟に対応いたします。</p>
-                        </div>
+                    <!-- Card 6 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_02.png" alt="キャンペーン">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">期間：</span>
+                                    <span class="p-seminar__card-date-value">〜2025/4/30</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【春のキャンペーン】初期費用無料キャンペーン実施中！</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 7 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">月単位での稼働時間は決まっているけど、一日の稼働時間に決まりはありますか？</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>一日の稼働時間に特に決まりはございません。月間の契約時間内であれば柔軟に対応可能です。</p>
-                        </div>
+                    <!-- Card 7 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_03.png" alt="ウェビナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/4/10</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【特別講演】リモートワーク時代のチームマネジメント術</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 8 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">お試しで利用することは可能ですか？</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>はい、無料トライアルをご用意しております。1週間、2時間のお試しが可能です。</p>
-                        </div>
+                    <!-- Card 8 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_04.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/4/20</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">DX推進の第一歩！ペーパーレス化の進め方とツール選定</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
-
-                    <!-- FAQ Item 9 -->
-                    <div class="p-faq__item">
-                        <div class="p-faq__question">
-                            <span class="p-faq__icon">Q.</span>
-                            <span class="p-faq__text">なぜフジ子さんは他と比べてこんなに安いのですか？</span>
-                            <span class="p-faq__toggle">+</span>
-                        </div>
-                        <div class="p-faq__answer">
-                            <p>フルリモートワークによるオフィスコストの削減や、効率的な業務体制により、低価格でのサービス提供を実現しています。</p>
-                        </div>
+                    <!-- Card 9 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_01.png" alt="ウェビナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/5/10</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【ウェビナー】事例で学ぶ！失敗しないアウトソーシングの導入方法</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 10 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_02.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/5/25</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【経営者向け】コア業務に集中するためのタイムマネジメント</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 11 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_03.png" alt="ウェビナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/6/5</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">スタートアップ企業のバックオフィス構築ロードマップ</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 12 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_04.png" alt="アーカイブ">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">期間：</span>
+                                    <span class="p-seminar__card-date-value">随時</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【動画配信】はじめてのオンラインアシスタント利用ガイド</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 13 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_01.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/6/20</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">ひとり社長のためのバックオフィス効率化術</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 14 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_02.png" alt="ウェビナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/7/1</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【労務管理】法改正対応のポイントと実務の注意点</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 15 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_03.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/7/15</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">インボイス制度対応の総点検セミナー</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 16 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_04.png" alt="キャンペーン">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">期間：</span>
+                                    <span class="p-seminar__card-date-value">夏期限定</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【Summer Campaign】ご紹介キャンペーン実施中</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 17 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_01.png" alt="ウェビナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/8/5</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【業務改善】マニュアル作成のコツと運用のポイント</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 18 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_02.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/8/20</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">年末調整業務の準備と効率化セミナー</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 19 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_03.png" alt="アーカイブ">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">期間：</span>
+                                    <span class="p-seminar__card-date-value">随時</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">【アーカイブ】成功企業に学ぶ、オンラインアシスタント活用の方程式</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
+                    </div>
+                    <!-- Card 20 -->
+                    <div class="p-seminar__card">
+                        <a href="#" class="p-seminar__card-link">
+                            <div class="p-seminar__card-img">
+                                <img src="img/seminar_04.png" alt="セミナー">
+                            </div>
+                            <div class="p-seminar__card-body">
+                                <div class="p-seminar__card-date">
+                                    <span class="p-seminar__card-date-label">開催日：</span>
+                                    <span class="p-seminar__card-date-value">2025/9/10</span>
+                                </div>
+                                <h4 class="p-seminar__card-title">次世代バックオフィス構築のためのDX戦略</h4>
+                            </div>
+                            <div class="p-seminar__card-arrow"><span>→</span></div>
+                        </a>
                     </div>
                 </div>
             </div>
-        </section>
+
+            <!-- Pagination Dots -->
+            <div class="p-seminar__pagination">
+                <span class="p-seminar__dot is-active"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+                <span class="p-seminar__dot"></span>
+            </div>
+
+            <div class="p-seminar__actions">
+                <a href="#" class="c-btn-seminar">VIEW MORE <span class="arrow">→</span></a>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="section section--faq p-faq">
+        <div class="container">
+            <div class="section-title section-title--center">
+                <span class="section-title__en" style="color: #54B6D4">FAQ</span>
+                <h3 class="section-title__jp" style="color: #000044; font-size: 2.5rem;">よくあるご質問</h3>
+            </div>
+
+            <div class="p-faq__list">
+                <!-- FAQ Item 1 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">担当アシスタントはどのように決まるのですか？一度決まったら変更はできませんか？</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>お客様のご要望や業務内容に応じて、最適なアシスタントをアサインいたします。万が一相性が合わない場合は、担当変更も可能です。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 2 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">アシスタントの品質を担保するためにどのような取り組みをしているのか</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>厳しい採用基準と継続的な研修制度により、高品質なサービスを提供しています。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 3 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">契約プランはいつでも変更可能ですか？</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>はい、契約プランはいつでも変更可能です。翌月からのプラン変更を承っております。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 4 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">使いきれなかった時間は翌月に繰り越せますか？</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>申し訳ございませんが、未使用時間の翌月繰り越しには対応しておりません。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 5 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">作業の依頼はどのようにすればいいのか？連絡ツールなど。</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>チャットワーク、Slack、メールなど、お客様のご希望のツールで依頼いただけます。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 6 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">月初にまとめて時間を使って欲しいなど、日によって対応時間が異なる対応は可能ですか？</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>はい、可能です。事前にご相談いただければ、柔軟に対応いたします。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 7 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">月単位での稼働時間は決まっているけど、一日の稼働時間に決まりはありますか？</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>一日の稼働時間に特に決まりはございません。月間の契約時間内であれば柔軟に対応可能です。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 8 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">お試しで利用することは可能ですか？</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>はい、無料トライアルをご用意しております。1週間、2時間のお試しが可能です。</p>
+                    </div>
+                </div>
+
+                <!-- FAQ Item 9 -->
+                <div class="p-faq__item">
+                    <div class="p-faq__question">
+                        <span class="p-faq__icon">Q.</span>
+                        <span class="p-faq__text">なぜフジ子さんは他と比べてこんなに安いのですか？</span>
+                        <span class="p-faq__toggle">+</span>
+                    </div>
+                    <div class="p-faq__answer">
+                        <p>フルリモートワークによるオフィスコストの削減や、効率的な業務体制により、低価格でのサービス提供を実現しています。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     </main>
 

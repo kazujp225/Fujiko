@@ -357,22 +357,100 @@ ul {
 /* ==========================================================================
    5. Project Specifics (ヘッダー・Hero・その他)
    ========================================================================== */
-/* Header (Absolute on hero, Fixed when scrolled) */
+/* ロゴ（左上固定） */
+.logo-fixed {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    z-index: 1001;
+    text-decoration: none;
+}
+
+.logo-fixed-img {
+    height: 80px;
+    width: auto;
+}
+
+/* Header 2段構成 */
 .header {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 1000;
     background: transparent;
     transition: all 0.3s ease;
-    padding: 10px 0 0;
 }
 
 .header.is-scrolled {
-    position: fixed;
-    background: #fff;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(135deg, #1a3a6e 0%, #1e4a8a 30%, #2d6cb5 60%, #4a9fd4 100%);
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* 上段：ボタン */
+.header__top-inner {
+    max-width: 100%;
+    margin: 0;
+    padding: 5px 50px 5px 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/* 下段：ナビゲーション */
+.header__bottom-inner {
+    max-width: 100%;
+    margin: 0;
+    padding: 5px 10px 5px 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+/* ボタン */
+.header__buttons {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.header__btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 13px;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.header__btn--blue {
+    background: #3B6AA0;
+    color: #fff;
+}
+
+.header__btn--blue:hover {
+    background: #4a8ad4;
+}
+
+.header__btn--yellow {
+    background: #EEDD44;
+    color: #333;
+}
+
+.header__btn--yellow:hover {
+    background: #D4C32B;
+}
+
+.btn-arrow {
+    font-size: 12px;
+}
+
+.btn-arrow-circle {
+    font-size: 10px;
 }
 
 .header.is-scrolled .nav__item>a {
@@ -433,7 +511,7 @@ ul {
     display: block;
     padding: 5px 0;
     color: #fff;
-    font-size: 13px;
+    font-size: 26px;
     font-weight: bold;
     text-decoration: none;
     transition: color 0.3s;
@@ -632,13 +710,7 @@ ul {
     padding-bottom: 80px;
     position: relative;
     width: 100%;
-    background:
-        repeating-linear-gradient(-45deg,
-            rgba(255, 255, 255, 0.02) 0px,
-            rgba(255, 255, 255, 0.02) 1px,
-            transparent 1px,
-            transparent 8px),
-        linear-gradient(135deg, #0066b3 0%, #3399cc 100%);
+    background: url('img/hero_bg.jpg') center center / cover no-repeat;
     color: #fff;
     overflow: hidden;
     min-height: 600px;
