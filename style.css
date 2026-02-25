@@ -706,7 +706,7 @@ ul {
 /* New Hero Blue Design */
 .hero-blue {
     margin-top: 0;
-    padding-top: 100px;
+    padding-top: 120px;
     padding-bottom: 80px;
     position: relative;
     width: 100%;
@@ -735,18 +735,23 @@ ul {
 }
 
 .hero-blue__title {
-    font-size: 2.5rem;
-    line-height: 1.7;
+    font-size: 3.4rem;
+    transform: scaleX(0.9);
+    transform-origin: left;
+    line-height: 1.2;
     margin-bottom: 20px;
-    font-weight: 700;
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    -webkit-text-stroke: 0.8px currentColor;
+    paint-order: stroke fill;
 }
 
 .hero-blue__text-bg {
-    background: #01025E;
-    padding: 10px 18px;
+    background: linear-gradient(to right, #2a5a9a 0%, #01025E 450px);
+    padding: 5px 15px;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
-    margin: 5px 0;
+    margin: 0 0 8px 0;
     display: inline-block;
     white-space: nowrap;
 }
@@ -759,13 +764,15 @@ ul {
 
 .hero-blue__awards {
     display: flex;
-    gap: 30px;
+    gap: 120px;
     margin-bottom: 40px;
+    margin-left: 80px;
 }
 
 .hero-blue__award-item img {
-    height: 120px;
+    height: 160px;
     width: auto;
+    transform: scaleX(2.2);
 }
 
 .c-cta-btn--hero {
@@ -802,11 +809,11 @@ ul {
 
 .hero-blue__banner {
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 40px;
+    right: 120px;
     z-index: 20;
-    max-width: 280px;
-    width: 20vw;
+    max-width: 500px;
+    width: 32vw;
 }
 
 .hero-blue__banner img {
